@@ -98,7 +98,18 @@
 		<DialogueNode>
 			<NodeID>8</NodeID>
 			<Name>none</Name>
-			<Text>Ever since Creator Chiang</Text>
+			<Text>Ever since Creator Chiang invented the prism, people couldn’t get enough of messaging their paraselves. Glancing around, you see at least 7 other students with prisms.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>9</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>9</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Wanna hear a joke?</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
