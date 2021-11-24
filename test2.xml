@@ -17,7 +17,7 @@
 		<DialogueNode>
 			<NodeID>1</NodeID>
 			<Name>You</Name>
-			<Text>You too mom</Text>
+			<Text>You too mom.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -39,7 +39,7 @@
 		<DialogueNode>
 			<NodeID>3</NodeID>
 			<Name>none</Name>
-			<Text>It's been forever since a day like this</Text>
+			<Text>It's been forever since a day like this.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -142,7 +142,7 @@
 		<DialogueNode>
 			<NodeID>12</NodeID>
 			<Name>Lyanna</Name>
-			<Text>The school ban on prisms</Text>
+			<Text>The school’s attempt to ban prisms.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
