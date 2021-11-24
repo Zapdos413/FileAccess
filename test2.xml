@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dialogue xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="https://www.w3.org/2001/XMLSchema">
+	<Nodes>
+		<!--So Im bad and you have to put each dialogue node with it's nodeID in order. As an example, the 5th dialogue node down has to have id 5-->
+		<DialogueNode>
+			<NodeID>0</NodeID>
+			<Name>Mom</Name>
+			<Text>Have a good day!</Text>
+			<Background>SchoolFront</Background>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>1</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>1</NodeID>
+			<Name>You</Name>
+			<Text>You too mom</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>2</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>2</NodeID>
+			<Name>none</Name>
+			<Text>Another day, another six periods of school. Finally a day without tests or projects.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>continue</Text>
+					<DestinationNodeID>3</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>3</NodeID>
+			<Name>none</Name>
+			<Text>It's been forever since a day like this</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>7</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>4</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Good morning [main]!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Good morning, Lyanna!</Text>
+					<DestinationNodeID>5</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>I wonder how many para-Lyannas found me this quickly.</Text>
+					<DestinationNodeID>6</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>5</NodeID>
+			<Name>none</Name>
+			<Text>Lyanna pulls out a prism on her way towards the school cafeteria.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Exit</Text>
+					<DestinationNodeID>8</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>6</NodeID>
+			<Name>Lyanna</Name>
+			<Text>*giggles* Probably in like all of them. I was waiting for you to show up, you know.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>5</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>7</NodeID>
+			<Name>none</Name>
+			<Text>From around the corner, your friend Lyanna walks up to greet you.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>4</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>8</NodeID>
+			<Name>none</Name>
+			<Text>Ever since Creator Chiang</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>-1</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+	</Nodes>
+</Dialogue>
