@@ -175,7 +175,18 @@
 		<DialogueNode>
 			<NodeID>15</NodeID>
 			<Name>Lyanna</Name>
-			<Text>They mentioned something about mental health impacts and whatever. It was all a bunch of propaganda to try and prevent people from spreading test answers across parallel worlds.</Text>
+			<Text>They mentioned something about mental health impacts and whatever.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>16</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>16</NodeID>
+			<Name>Lyanna</Name>
+			<Text>It's all a bunch of propaganda to try and prevent people from spreading test answers across parallel worlds though.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
