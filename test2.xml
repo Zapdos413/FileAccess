@@ -28,18 +28,18 @@
 		<DialogueNode>
 			<NodeID>2</NodeID>
 			<Name>none</Name>
-			<Text>Another day, another six periods of school. Finally a day without tests or projects.</Text>
+			<Text>Another day, another six periods of school. Finally a day without tests or projects. It's been forever since a day like this.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>continue</Text>
-					<DestinationNodeID>3</DestinationNodeID>
+					<DestinationNodeID>5</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>3</NodeID>
-			<Name>none</Name>
-			<Text>It's been forever since a day like this.</Text>
+			<Name>Lyanna</Name>
+			<Text>I'm headed to the cafeteria so I can get a cookie before class. Wanna join me?</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -54,7 +54,7 @@
 			<Options>
 				<DialogueOption>
 					<Text>Good morning, Lyanna!</Text>
-					<DestinationNodeID>5</DestinationNodeID>
+					<DestinationNodeID>3</DestinationNodeID>
 				</DialogueOption>
 				<DialogueOption>
 					<Text>I wonder how many para-Lyannas found me this quickly.</Text>
@@ -87,7 +87,7 @@
 		<DialogueNode>
 			<NodeID>7</NodeID>
 			<Name>none</Name>
-			<Text>From around the corner, your friend Lyanna walks up to greet you.</Text>
+			<Text>From around the corner, my friend Lyanna walks up to greet me.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -175,7 +175,7 @@
 		<DialogueNode>
 			<NodeID>15</NodeID>
 			<Name>Lyanna</Name>
-			<Text>They mentioned something about mental health impacts and whatever other propaganda they wanted to try and prevent the spreading of test answers across parallel worlds.</Text>
+			<Text>They mentioned something about mental health impacts and whatever. It was all a bunch of propaganda to try and prevent people from spreading test answers across parallel worlds.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
