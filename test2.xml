@@ -28,7 +28,7 @@
 		<DialogueNode>
 			<NodeID>2</NodeID>
 			<Name>none</Name>
-			<Text>Another day, another six periods of school. Finally a day without tests or projects. It's been forever since a day like this.</Text>
+			<Text>Another day, another six periods of school. Finally a day without any tests or projects.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>continue</Text>
