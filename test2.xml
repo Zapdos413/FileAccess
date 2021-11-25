@@ -32,7 +32,7 @@
 			<Options>
 				<DialogueOption>
 					<Text>continue</Text>
-					<DestinationNodeID>5</DestinationNodeID>
+					<DestinationNodeID>7</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
@@ -43,7 +43,7 @@
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
-					<DestinationNodeID>7</DestinationNodeID>
+					<DestinationNodeID>5</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
