@@ -212,7 +212,7 @@
 		<DialogueNode>
 			<NodeID>18</NodeID>
 			<Name>Lyanna</Name>
-			<Text>*Laughs* Your fake laugh is terrible</Text>
+			<Text>*Laughs* Your fake laugh is terrible.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -223,7 +223,7 @@
 		<DialogueNode>
 			<NodeID>19</NodeID>
 			<Name>Lyanna</Name>
-			<Text>Aw, well you didn’t have to say it to my face like that</Text>
+			<Text>Aw, well you didn’t have to say it to my face like that.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -234,7 +234,7 @@
 		<DialogueNode>
 			<NodeID>20</NodeID>
 			<Name>none</Name>
-			<Text>From the corner of my vision, I see Kris, the school president, frantically doing her homework while scarfing a bagel.</Text>
+			<Text>Out of the corner of my eye, I see Kris, the school president, frantically doing her homework while scarfing a bagel.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
