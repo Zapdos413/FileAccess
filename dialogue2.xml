@@ -465,7 +465,7 @@
 		<DialogueNode>
 			<NodeID>40</NodeID>
 			<Name>You</Name>
-			<Text>B-but-/Text>
+			<Text>B-but-</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
