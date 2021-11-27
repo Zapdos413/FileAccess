@@ -630,7 +630,7 @@
 		<DialogueNode>
 			<NodeID>55</NodeID>
 			<Name>none</Name>
-			<Text>I head to the disciplinary office to report the incident./Text>
+			<Text>I head to the disciplinary office to report the incident.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
