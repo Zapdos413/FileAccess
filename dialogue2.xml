@@ -5,13 +5,13 @@
 			<NodeID>0</NodeID>
 			<Name>none</Name>
 			<Text>Before I can enter the bathroom, someone shoves me from behind.</Text>
+			<Background>LockerRoom</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
 					<DestinationNodeID>1</DestinationNodeID>
 				</DialogueOption>
 			</Options>
-			<Background>LockerRoom</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>1</NodeID>
