@@ -11,6 +11,7 @@
 					<DestinationNodeID>1</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>LockerRoom</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>1</NodeID>
