@@ -887,7 +887,7 @@
 		<DialogueNode>
 			<NodeID>78</NodeID>
 			<Name>Sawyer</Name>
-			<Text>I mean, how is it possible to take advanced level classes with every extracurricular activity the school offers and expect to finish the homework?/Text>
+			<Text>I mean, how is it possible to take advanced level classes with every extracurricular activity the school offers and expect to finish the homework?</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
