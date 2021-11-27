@@ -80,7 +80,7 @@
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
-					<DestinationNodeID>42</DestinationNodeID>
+					<DestinationNodeID>3</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
@@ -488,7 +488,7 @@
 		<DialogueNode>
 			<NodeID>42</NodeID>
 			<Name>You</Name>
-			<Text>Sure</Text>
+			<Text>Sure.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
