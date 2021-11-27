@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Dialogue xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="https://www.w3.org/2001/XMLSchema">
-  <Nodes>
-    <DialogueNode>
+	<Nodes>
+    		<DialogueNode>
 			<NodeID>0</NodeID>
 			<Name>Mom</Name>
 			<Text>Have a good day!</Text>
@@ -13,5 +13,5 @@
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
-  </Nodes>
+	</Nodes>
 </Dialogue>
