@@ -28,7 +28,7 @@
 		<DialogueNode>
 			<NodeID>2</NodeID>
 			<Name>none</Name>
-			<Text>Another day, another six periods of school. Finally a day without any tests or projects.</Text>
+			<Text>Another day, another six periods of school. Finally, a day without any tests or projects.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>continue</Text>
@@ -109,7 +109,7 @@
 		<DialogueNode>
 			<NodeID>9</NodeID>
 			<Name>none</Name>
-			<Text>Glancing around, you see at least 7 other students with prisms.</Text>
+			<Text>Glancing around, you see at least seven other students with prisms.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -186,7 +186,7 @@
 		<DialogueNode>
 			<NodeID>16</NodeID>
 			<Name>Lyanna</Name>
-			<Text>It's all a bunch of propaganda to try and prevent people from spreading test answers across parallel worlds though.</Text>
+			<Text>It's all a bunch of propaganda to try and prevent people from spreading test answers across parallel worlds, though.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Fake a laugh</Text>
@@ -275,10 +275,10 @@
 				</DialogueOption>
 				<DialogueOption>
 					<Text>"I’ll take that as a compliment."</Text>
-					<DestinationNodeID>226</DestinationNodeID>
+					<DestinationNodeID>26</DestinationNodeID>
 				</DialogueOption>
 				<DialogueOption>
-					<Text>"I’m just built different"</Text>
+					<Text>"I’m just built different."</Text>
 					<DestinationNodeID>27</DestinationNodeID>
 				</DialogueOption>
 			</Options>
@@ -422,7 +422,7 @@
 		<DialogueNode>
 			<NodeID>36</NodeID>
 			<Name>Lyanna</Name>
-			<Text>Of course! Having a paraself is like having a friend. It’s best when you first split since your experiences are so relatable.</Text>
+			<Text>Of course! Having a paraself is like having a friend. It’s best when you first split, since your experiences are exactly the same.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -470,7 +470,18 @@
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
-					<DestinationNodeID>-1</DestinationNodeID>
+					<DestinationNodeID>41</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>41</NodeID>
+			<Name>You</Name>
+			<Text>Are you sure there was a rule banning prisms?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>42</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
