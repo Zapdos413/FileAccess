@@ -3,13 +3,960 @@
 	<Nodes>
     		<DialogueNode>
 			<NodeID>0</NodeID>
-			<Name>Mom</Name>
-			<Text>Have a good day!</Text>
-			<Background>SchoolFront</Background>
+			<Name>none</Name>
+			<Text>Before I can enter the bathroom, someone shoves me from behind.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
 					<DestinationNodeID>1</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>1</NodeID>
+			<Name>You</Name>
+			<Text>Kris?! What was that for?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>2</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>2</NodeID>
+			<Name>none</Name>
+			<Text>She frantically rummages through my bag, finally stopping to pull out my binder.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>3</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>3</NodeID>
+			<Name>You</Name>
+			<Text>Hey! That's my stuff!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>4</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>4</NodeID>
+			<Name>Kris</Name>
+			<Text>I'll be taking this.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>5</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>5</NodeID>
+			<Name>none</Name>
+			<Text>She pulls out my English homework, which is due in about five minutes.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>6</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>6</NodeID>
+			<Name>Kris</Name>
+			<Text>Keep quiet and you won't get in trouble.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>7</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>7</NodeID>
+			<Name>none</Name>
+			<Text>It's not hard for me to imagine Kris pulling a couple strings to get me in trouble.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>"Sounds like someone didn't do their homework in time."</Text>
+					<DestinationNodeID>8</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>"Why do you want my homework?"</Text>
+					<DestinationNodeID>9</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>Shove her.</Text>
+					<DestinationNodeID>10</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>8</NodeID>
+			<Name>Kris</Name>
+			<Text>I said quiet! One more snarky comment and consider your time at this school over.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>11</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>9</NodeID>
+			<Name>Kris</Name>
+			<Text>You wouldn't understand, so just do your part and stay out of it.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>11</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>10</NodeID>
+			<Name>Kris</Name>
+			<Text>Kris deftly slides out of the way, simultaneously sweeping my legs out from under me. In the moment, I can't help but appreciate her fast reactions.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>11</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>11</NodeID>
+			<Name>none</Name>
+			<Text>She tosses my bag on the ground, taking off with my English homework.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>12</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>12</NodeID>
+			<Name>none</Name>
+			<Text>I notice a notification on my prism.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>13</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>13</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>Hey, did you just get mugged by Kris?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>14</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>14</NodeID>
+			<Name>You</Name>
+			<Text>You too?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>15</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>15</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>Yeah...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>16</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>16</NodeID>
+			<Name>You</Name>
+			<Text>What should we do?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>17</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>17</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>My ideas are just about as good as yours.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>18</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>18</NodeID>
+			<Name>You</Name>
+			<Text>...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>19</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>19</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>How about we both try and prove our innocence in different ways?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>That sounds good.</Text>
+					<DestinationNodeID>22</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>Why would we do different things?</Text>
+					<DestinationNodeID>20</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>20</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>Well, maybe we can help each other. If I find something on my side, maybe you can use it to help you out?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>21</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>21</NodeID>
+			<Name>You</Name>
+			<Text>I see what you mean...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>22</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>22</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>How's this: one of us tells the principal what happens, and one of us tries to confront Kris in front of other students?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Sure</Text>
+					<DestinationNodeID>24</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>One of those sounds a lot more appealing than the other...</Text>
+					<DestinationNodeID>23</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>23</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>You might be right. Well, why don't you go ahead and pick what you're going to do?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>24</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>24</NodeID>
+			<Name>You</Name>
+			<Text>Sure, I'm going to...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>take my homework back.</Text>
+					<DestinationNodeID>25</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>Report the incident to the school.</Text>
+					<DestinationNodeID>53</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>25</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>Perfect, I was thinking of reporting the incident. We'll both follow through and see how it turns out for each of us.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>26</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>26</NodeID>
+			<Name>You</Name>
+			<Text>Sounds good.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>27</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>27</NodeID>
+			<Name>none</Name>
+			<Text>I run towards the exit that Kris left from.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>28</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>28</NodeID>
+			<Name>none</Name>
+			<Text>After running through the hallways, I track down Kris, who is outside of our first class with the "popular people."</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>29</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>29</NodeID>
+			<Name>You</Name>
+			<Text>Kris! Give my homework back!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>30</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>30</NodeID>
+			<Name>Kris</Name>
+			<Text>Huh? What do you mean?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>31</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>31</NodeID>
+			<Name>You</Name>
+			<Text>You know what I mean. You stole my homework just now. Give it back.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>32</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>32</NodeID>
+			<Name>Bystander 1</Name>
+			<Text>Are you in your right mind? Why would Kris even want to steal your homework? She has the best grades at this school!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>33</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>33</NodeID>
+			<Name>You</Name>
+			<Text>She-</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>34</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>34</NodeID>
+			<Name>Kris</Name>
+			<Text>Look, I know I lent you my homework because you asked for help, but you can't just demand that it's yours.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>35</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>35</NodeID>
+			<Name>Kris</Name>
+			<Text>I can't believe you were just going to turn in my homework and claim it as your own.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>36</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>36</NodeID>
+			<Name>You</Name>
+			<Text>I-</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>37</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>37</NodeID>
+			<Name>Teacher</Name>
+			<Text>What's going on here?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>38</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>38</NodeID>
+			<Name>Kris</Name>
+			<Text>[main]] here took my homework and tried to pass it off as their own.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>39</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>39</NodeID>
+			<Name>none</Name>
+			<Text>Everyone around Kris nods in agreement.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>40</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>40</NodeID>
+			<Name>You</Name>
+			<Text>B-but-/Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>41</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>41</NodeID>
+			<Name>Teacher</Name>
+			<Text>[main], please come with me to the disciplinary office.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>42</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>42</NodeID>
+			<Name>none</Name>
+			<Text>I follow the teacher as Kris makes a face at me.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>43</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>43</NodeID>
+			<Name>Teacher</Name>
+			<Text>Would you like to explain yourself?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>44</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>44</NodeID>
+			<Name>You</Name>
+			<Text>Look. What Kris said isn't true. I-</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>45</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>45</NodeID>
+			<Name>Teacher</Name>
+			<Text>Everyone around you said that you were guilty. And Kris would never lie.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>46</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>46</NodeID>
+			<Name>You</Name>
+			<Text>B-but-</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>47</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>47</NodeID>
+			<Name>Teacher</Name>
+			<Text>On top of trying to take Kris's homework, you also gathered a large crowd and created a disturbance.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>48</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>48</NodeID>
+			<Name>Teacher</Name>
+			<Text>I'm afraid I'll have to give you a detention.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>49</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>49</NodeID>
+			<Name>Teacher</Name>
+			<Text>And also, you don't have your homework?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>50</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>50</NodeID>
+			<Name>You</Name>
+			<Text>I do-</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>51</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>51</NodeID>
+			<Name>Teacher</Name>
+			<Text>I'm afraid I'll have to give you a zero on the assignment as well.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>52</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>52</NodeID>
+			<Name>none</Name>
+			<Text>Overwhelmed with shame, I walk with my teacher to first period, finish the school day,, and find my friends.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>66</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>53</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>Perfect, I was thinking of chasing Kris. We'll both follow through and see how it turns out for each of us.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>54</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>54</NodeID>
+			<Name>You</Name>
+			<Text>Sounds good.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>55</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>55</NodeID>
+			<Name>none</Name>
+			<Text>I head to the disciplinary office to report the incident./Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>56</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>56</NodeID>
+			<Name>Teacher</Name>
+			<Text>What brings you here?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>57</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>57</NodeID>
+			<Name>You</Name>
+			<Text>Kris mugged me and stole my homework.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>58</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>58</NodeID>
+			<Name>Teacher</Name>
+			<Text>Kris? Kris would never steal homework...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>59</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>59</NodeID>
+			<Name>You</Name>
+			<Text>B-but-</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>60</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>60</NodeID>
+			<Name>Teacher</Name>
+			<Text>Look, is this just an excuse? Did you do your homework?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>61</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>61</NodeID>
+			<Name>You</Name>
+			<Text>I did, but Kris stole it.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>62</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>62</NodeID>
+			<Name>Teacher</Name>
+			<Text>Kris stole it, huh?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>63</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>63</NodeID>
+			<Name>You</Name>
+			<Text>Yeah...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>64</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>64</NodeID>
+			<Name>Teacher</Name>
+			<Text>I'm afraid I'll have to give you a zero on the homework for the time being. We'll look into the incident.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>65</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>65</NodeID>
+			<Name>none</Name>
+			<Text>I get the feeling that the teacher's promise will never come to fruition. I walk with my teacher to my first period and finish the school day.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>66</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>66</NodeID>
+			<Name>none</Name>
+			<Text>I find my significant other, Sawyer, hanging out with their friends.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>67</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>67</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Hi, [main]! I didn't see you at lunch today. Are you doing okay?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>I'm fine.</Text>
+					<DestinationNodeID>68</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>Kris beat me up.</Text>
+					<DestinationNodeID>70</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>68</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Fine as in, "I walked around looking depressed all day"?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>69</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>69</NodeID>
+			<Name>You</Name>
+			<Text>Fine. Kris beat me up this morning.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>73</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>70</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Oh. That's...  I'm sorry to hear that.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>71</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>71</NodeID>
+			<Name>Sawyer's friend</Name>
+			<Text>This sounds like a conversation that we shouldn't be a part of. Catch you later, Sawyer!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>72</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>72</NodeID>
+			<Name>Sawyer's Other Friend</Name>
+			<Text>Bye Sawyer!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>73</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>73</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Wait, Kris did that?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>74</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>74</NodeID>
+			<Name>You</Name>
+			<Text>Yeah.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>75</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>75</NodeID>
+			<Name>Sawyer</Name>
+			<Text>What happened after?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>76</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>76</NodeID>
+			<Name>none</Name>
+			<Text>I explain what happened.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>77</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>77</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Psssh. I should have expected something was up with Kris.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>78</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>78</NodeID>
+			<Name>Sawyer</Name>
+			<Text>I mean, how is it possible to take advanced level classes with every extracurricular activity the school offers and expect to finish the homework?/Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>79</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>79</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Oh, I believed you mentioned something about activating a prism? Don't you usually not use them?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>80</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>80</NodeID>
+			<Name>You</Name>
+			<Text>Lyanna gave it to me.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>81</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>81</NodeID>
+			<Name>Sawyer</Name>
+			<Text>You'll do anything she asks, won't you?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>82</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>82</NodeID>
+			<Name>You</Name>
+			<Text>Is someone jealous?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>83</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>83</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Never mind. I wanted to ask you what your paraself did.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>84</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>84</NodeID>
+			<Name>You</Name>
+			<Text>Oh shoot, I forgot.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>-1</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
