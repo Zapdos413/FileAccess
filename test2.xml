@@ -334,6 +334,142 @@
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
+					<DestinationNodeID>29</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>29</NodeID>
+			<Name>You</Name>
+			<Text>Lyanna, class starts in a few minutes. I’d better use the restroom before class starts.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>30</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>30</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Wait! Before you go...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>31</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>31</NodeID>
+			<Name>none</Name>
+			<Text>Lyanna takes a prism out of her bag.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>32</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>32</NodeID>
+			<Name>Lyanna</Name>
+			<Text>I got this from the place where I work as an appreciation gift. Since I already have a lot of them, I saved this one for you!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Thanks!</Text>
+					<DestinationNodeID>33</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>I don't usually use prisms...</Text>
+					<DestinationNodeID>38</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>33</NodeID>
+			<Name>none</Name>
+			<Text>I take the prism.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>34</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>34</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Activate it!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>35</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>35</NodeID>
+			<Name>You</Name>
+			<Text>Right now?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>36</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>36</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Of course! Having a paraself is like having a friend. It’s best when you first split since your experiences are so relatable.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>37</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>37</NodeID>
+			<Name>none</Name>
+			<Text>I don’t want to disappoint Lyanna.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>39</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>38</NodeID>
+			<Name>Lyanna</Name>
+			<Text>I know. That’s why I’m giving it to you. I want you to see the joy in talking to someone so relatable. Anyways, activate it!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>37</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>39</NodeID>
+			<Name>You</Name>
+			<Text>Here goes.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>40</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>40</NodeID>
+			<Name>none</Name>
+			<Text>I press the button, filling the cafeteria with a blue light. Oddly enough, the teachers don’t seem to pay any mind.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
 					<DestinationNodeID>-1</DestinationNodeID>
 				</DialogueOption>
 			</Options>
