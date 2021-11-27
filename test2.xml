@@ -481,7 +481,7 @@
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
-					<DestinationNodeID>42</DestinationNodeID>
+					<DestinationNodeID>43</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
@@ -493,6 +493,72 @@
 				<DialogueOption>
 					<Text>next</Text>
 					<DestinationNodeID>5</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>43</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>Lyanna here is giving me a hard time about the beginning of the year speech.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Yes</Text>
+					<DestinationNodeID>44</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>44</NodeID>
+			<Name>You</Name>
+			<Text>Oh wow, our worlds are really similar.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>45</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>45</NodeID>
+			<Name>none</Name>
+			<Text>Lyanna smiles</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>46</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>46</NodeID>
+			<Name>You</Name>
+			<Text>I’d play with this more, but it’s almost time for class and I have to go to the bathroom. Talk to you later, Lyanna.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>47</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>47</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Ok, see you after school!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>48</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>48</NodeID>
+			<Name>none</Name>
+			<Text>I head to the through the locker room to the nearest bathroom.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
+					<DestinationNodeID>-1</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
