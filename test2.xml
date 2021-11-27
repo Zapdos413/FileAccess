@@ -470,6 +470,17 @@
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
+					<DestinationNodeID>41</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>41</NodeID>
+			<Name>You</Name>
+			<Text>Are you sure there was a rule banning prisms?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>next</Text>
 					<DestinationNodeID>-1</DestinationNodeID>
 				</DialogueOption>
 			</Options>
