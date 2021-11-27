@@ -561,6 +561,7 @@
 					<DestinationNodeID>-1</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>LockerRoom</Background>
 			<Function>Mugging</Function>
 		</DialogueNode>
 	</Nodes>
