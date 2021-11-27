@@ -521,7 +521,7 @@
 		<DialogueNode>
 			<NodeID>45</NodeID>
 			<Name>none</Name>
-			<Text>Lyanna smiles</Text>
+			<Text>Lyanna smiles.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
