@@ -285,7 +285,7 @@
 		<DialogueNode>
 			<NodeID>24</NodeID>
 			<Name>You</Name>
-			<Text>Sure, I'm going to...</Text>
+			<Text>I'm going to...</Text>
 			<Options>
 				<DialogueOption>
 					<Text>take my homework back.</Text>
@@ -444,7 +444,7 @@
 		<DialogueNode>
 			<NodeID>38</NodeID>
 			<Name>Kris</Name>
-			<Text>[main]] here took my homework and tried to pass it off as their own.</Text>
+			<Text>[main] here took my homework and tried to pass it off as their own.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
