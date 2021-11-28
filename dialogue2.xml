@@ -294,6 +294,7 @@
 				<DialogueOption>
 					<Text>Report the incident to the school.</Text>
 					<DestinationNodeID>53</DestinationNodeID>
+					<Function>ReportPath</Function>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
@@ -947,13 +948,117 @@
 				<DialogueOption>
 					<Text>Continue</Text>
 					<DestinationNodeID>84</DestinationNodeID>
+					<!--This node will send to 84 if you confronted Kris and 85 if you went to the principal's office-->
+					<Function>SplitDialogue1a</Function>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
+			<!--Confront Kris path -->
 			<NodeID>84</NodeID>
 			<Name>You</Name>
 			<Text>Oh shoot, I forgot.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>86</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--Principal path-->
+			<NodeID>85</NodeID>
+			<Name>You</Name>
+			<Text>Oh shoot, I forgot.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>90</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>86</NodeID>
+			<Name>You</Name>
+			<Text>Hey para-[main], how did going to the office go?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>87</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>87</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>It went exactly as planned.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>88</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>88</NodeID>
+			<Name>You</Name>
+			<Text>Really?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>89</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>89</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>Yeah, as it turns out, we’re not Kris’s first victim. Another victim spoke up and helped me convince the principal. I’m kind of a school hero now.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--reconverge-->
+					<DestinationNodeID>93</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>90</NodeID>
+			<Name>You</Name>
+			<Text>Hey para-[main], how did confronting Kris go?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>91</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>91</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>It went perfectly.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>92</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>92</NodeID>
+			<Name>You</Name>
+			<Text>Yeah, as it turns out, we’re not Kris’s first victim. Another victim spoke up when I was confronting Kris, and the crowd actually turned on her.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>93</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>93</NodeID>
+			<Name>You</Name>
+			<Text>That's great...</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
