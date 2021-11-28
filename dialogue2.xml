@@ -598,7 +598,7 @@
 		<DialogueNode>
 			<NodeID>52</NodeID>
 			<Name>none</Name>
-			<Text>Overwhelmed with shame, I walk with my teacher to first period, finish the school day,, and find my friends.</Text>
+			<Text>Overwhelmed with shame, I walk with my teacher to first period, finish the school day, and find my friends.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
