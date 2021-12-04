@@ -557,7 +557,7 @@
 		<DialogueNode>
 			<NodeID>48</NodeID>
 			<Name>none</Name>
-			<Text>I head to the through the locker room to the nearest bathroom.</Text>
+			<Text>I head through the locker room to the nearest bathroom.</Text>
 			<Background>LockerRoom</Background>
 			<Options>
 				<DialogueOption>
