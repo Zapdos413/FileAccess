@@ -1,10 +1,175 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Dialogue xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="https://www.w3.org/2001/XMLSchema">
 	<Nodes>
-    <DialogueNode>
+   		<DialogueNode>
 			<NodeID>0</NodeID>
+			<Name>Mom</Name>
+			<Text>Time to wake up, [main]!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>1</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+   		<DialogueNode>
+			<NodeID>1</NodeID>
 			<Name>none</Name>
-			<Text>something here</Text>
+			<Text>Why does waking up exist? Normally, I hate it, but knowing what I have to do today makes it even worse.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>2</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>2</NodeID>
+			<Name>[main]</Name>
+			<Text>Coming!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>3</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>3</NodeID>
+			<Name>none</Name>
+			<Text>Mom looks like she didn't sleep at all last night. I hope she's okay.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>4</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>4</NodeID>
+			<Name>Mom</Name>
+			<Text>Here's lunch. Breakfast is on the stove.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>5</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>5</NodeID>
+			<Name>none</Name>
+			<Text>I quickly eat my breakfast and get in the car.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>6</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>6</NodeID>
+			<Name>Mom</Name>
+			<Text>This afternoon, right?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>7</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>7</NodeID>
+			<Name>[main]</Name>
+			<Text>Yeah. The principal's office is to the right of the main entrance. I'll be waiting around there.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>8</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>8</NodeID>
+			<Name>none</Name>
+			<Text>We arrive at school.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>9</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>9</NodeID>
+			<Name>[main]</Name>
+			<Text>Bye Mom. Thanks so much.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>10</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>10</NodeID>
+			<Name>Mom</Name>
+			<Text>I'll see you later today, kiddo.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>11</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>11</NodeID>
+			<Name>none</Name>
+			<Text>With a weak smile, she drives away.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>12</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>12</NodeID>
+			<Name>none</Name>
+			<Text>From around the corner, Lyanna walks up to greet me.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>13</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>13</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Sawyer messaged me about what happened yesterday. Are you alright?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>14</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>14</NodeID>
+			<Name>[main]</Name>
+			<Text>I guess...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>15</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>15</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Let me buy you a cookie. It's the least I can do.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
