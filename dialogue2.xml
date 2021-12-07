@@ -1062,6 +1062,247 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
+					<DestinationNodeID>94</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>94</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>How about you?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>95</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>95</NodeID>
+			<Name>You</Name>
+			<Text>...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>96</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>96</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>That doesn’t sound good. At least you can use some of the information I found. Why don’t you go and get Jim Beaux to help you?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>97</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>97</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>He was the other victim that spoke up. I’m sure he’d love to help you out.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>98</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>98</NodeID>
+			<Name>You</Name>
+			<Text>That sounds like it could work. Who is Jim Beaux and where can I find them?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>99</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>99</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>They’re in our English period class, remember? He’s the kid who wears the school hoodie and barely participates.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>100</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>100</NodeID>
+			<Name>You</Name>
+			<Text>That’s him? I suppose that makes sense.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>101</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>101</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>Why don’t you try and find him right now? I’m pretty sure he’s in the math club.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>102</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>102</NodeID>
+			<Name>Sawyer</Name>
+			<Text>That sounds like a plan. Why don’t we head to the math club right now, honey?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Sure.</Text>
+					<DestinationNodeID>103</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>I'm not middle aged.</Text>
+					<DestinationNodeID>103</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>103</NodeID>
+			<Name>none</Name>
+			<Text>I head towards the math wing in search of the math club.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>104</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>104</NodeID>
+			<Name>You</Name>
+			<Text>Hey Sawyer, will this really work out? If I couldn’t do it before…</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>105</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>105</NodeID>
+			<Name>Sawyer</Name>
+			<Text>If your paraself could do it, I don’t see why not.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>106</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>106</NodeID>
+			<Name>none</Name>
+			<Text>I easily find Jim solving math problems in the corner of the room.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>107</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>107</NodeID>
+			<Name>You</Name>
+			<Text>Hey Jim, do you think you could help me out?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>108</DestinationNodeID>
+					<!--go to 111 if the player chose to report Kris-->
+					<Function>JimSplit</Function>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--This is for confronting Kris-->
+			<NodeID>108</NodeID>
+			<Name>Jim</Name>
+			<Text>Were you that kid who accused Kris of taking your homework out before class today?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>109</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>109</NodeID>
+			<Name>You</Name>
+			<Text>Yeah, that was me.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>110</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>110</NodeID>
+			<Name>You</Name>
+			<Text>Could you help me convince the principal that Kris took it?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--End split. Reconverge at 114-->
+					<DestinationNodeID>114</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--if player reported-->
+			<NodeID>111</NodeID>
+			<Name>Jim</Name>
+			<Text>Are you that kid who didn’t have their homework in English class?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>112</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>112</NodeID>
+			<Name>You</Name>
+			<Text>Yeah, Kris took it.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>113</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>113</NodeID>
+			<Name>You</Name>
+			<Text>I was actually wondering if you could help me convince the principal that Kris took it.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>114</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--Reconverge-->
+			<NodeID>114</NodeID>
+			<Name>Jim</Name>
+			<Text>Why me?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
 					<DestinationNodeID>-1</DestinationNodeID>
 				</DialogueOption>
 			</Options>
