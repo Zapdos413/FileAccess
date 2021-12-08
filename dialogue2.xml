@@ -1725,7 +1725,18 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID>152</DestinationNodeID>
+					<DestinationNodeID>153</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>152</NodeID>
+			<Name>none</Name>
+			<Text>If you're reading this, I have made a huge mistake.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>153</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
