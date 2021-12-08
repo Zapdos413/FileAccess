@@ -1303,9 +1303,601 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID>-1</DestinationNodeID>
+					<DestinationNodeID>115</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
+		<DialogueNode>
+			<NodeID>115</NodeID>
+			<Name>You</Name>
+			<Text>My paraself told me that I’m not the only one Kris has targeted.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>116</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>116</NodeID>
+			<Name>Jim</Name>
+			<Text>Well, your paraself isn’t wrong. Kris has taken my work multiple times.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>117</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>117</NodeID>
+			<Name>Jim</Name>
+			<Text>Believe me, I’ve already tried reporting it to the school. What makes you think that this time will be different?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>"If the two of us go..."</Text>
+					<DestinationNodeID>118</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>"It worked for my paraself..."</Text>
+					<DestinationNodeID>125</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>118</NodeID>
+			<Name>Jim</Name>
+			<Text>It’s two nobodies against the school president.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>119</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>119</NodeID>
+			<Name>Jim</Name>
+			<Text>I’m done trying. My family is moving away after this year anyways.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>120</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>120</NodeID>
+			<Name>Jim</Name>
+			<Text>Is that all?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>121</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>121</NodeID>
+			<Name>Sawyer</Name>
+			<Text>It worked for [main]’s paraself.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>122</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>122</NodeID>
+			<Name>Jim</Name>
+			<Text>Working for a paraself doesn’t mean ANYTHING.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>123</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>123</NodeID>
+			<Name>none</Name>
+			<Text>Jim seems fired up about this topic.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>124</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>124</NodeID>
+			<Name>Jim</Name>
+			<Text>I don’t want to hear about what worked and what didn’t for your paraself. Just leave me alone.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--reconverge-->
+					<DestinationNodeID>129</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>125</NodeID>
+			<Name>Jim</Name>
+			<Text>Your paraself, huh?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>126</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>126</NodeID>
+			<Name>Jim</Name>
+			<Text>Working for your paraself doesn’t mean anything. You know that, right?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>127</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>127</NodeID>
+			<Name>Sawyer</Name>
+			<Text>What do you mean by that? It’s a very similar situation.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>128</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>128</NodeID>
+			<Name>Jim</Name>
+			<Text>Take my advice on this: never compare yourself to parallel worlds. You can find any fate if you look hard enough. Now are we done here?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--reconverge-->
+					<DestinationNodeID>129</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>129</NodeID>
+			<Name>You</Name>
+			<Text>It was worth a shot.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>130</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>130</NodeID>
+			<Name>none</Name>
+			<Text>Sawyer and I head out of the math wing. I bring out my prism and message my paraself on the way.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>131</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>131</NodeID>
+			<Name>You</Name>
+			<Text>Jim won’t help me.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>132</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>132</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>He’s not exactly an easy person to work with, I’ll admit.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>133</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>133</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>So no luck with the principal's office?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>134</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>134</NodeID>
+			<Name>You</Name>
+			<Text>I didn’t even bother going.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>135</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>135</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>Well, that’s tough. I’ll let you know if I find anything else that could help you out.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>136</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>136</NodeID>
+			<Name>You</Name>
+			<Text>Thanks, I guess.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>137</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>137</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>I wish I could do more for you.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>138</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>138</NodeID>
+			<Name>You</Name>
+			<Text>Don’t worry about it. I’ll figure it out.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>139</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>139</NodeID>
+			<Name>none</Name>
+			<Text>I put my prism away.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>140</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>140</NodeID>
+			<Name>Sawyer</Name>
+			<Text>That trip went poorly.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>141</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>141</NodeID>
+			<Name>You</Name>
+			<Text>It went about as well as the rest of my day.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>142</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>142</NodeID>
+			<Name>You</Name>
+			<Text>It’s even worse knowing that I could have been on my paraself’s side. Am I just unlucky?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>143</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>143</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Paraselves are... Do you think we matter?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>"Of course"</Text>
+					<DestinationNodeID>144</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>"Not really..."</Text>
+					<DestinationNodeID>145</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>"What kind of question is that?"</Text>
+					<DestinationNodeID>146</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>144</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Even though there’s probably over a billion versions of me?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--reconverge at 147-->
+					<DestinationNodeID>147</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>145</NodeID>
+			<Name>Sawyer</Name>
+			<Text>I’ve been thinking the same thing recently.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>147</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>146</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Not a very good one.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>147</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>147</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Never mind.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>148</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>148</NodeID>
+			<Name>none</Name>
+			<Text>I get a text from my mom saying she’s waiting for me in the car.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>149</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>149</NodeID>
+			<Name>You</Name>
+			<Text>Ok, Sawyer, I’m going home. You need a ride?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>150</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>150</NodeID>
+			<Name>Sawyer</Name>
+			<Text>I’m good for today. Thanks for offering though.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>151</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>151</NodeID>
+			<Name>You</Name>
+			<Text>Ok then, bye!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>152</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>153</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Later, nerd.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>154</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>154</NodeID>
+			<Name>none</Name>
+			<Text>I head home, falling asleep during the car ride. Homework is boring, as always, and I find myself playing video games until dinner time.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>155</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>155</NodeID>
+			<Name>Mom</Name>
+			<Text>I made omurice for dinner tonight.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>"Cool, thanks!"</Text>
+					<DestinationNodeID>157</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>"What's that?"</Text>
+					<DestinationNodeID>156</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>156</NodeID>
+			<Name>Mom</Name>
+			<Text>It's good.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>157</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>157</NodeID>
+			<Name>none</Name>
+			<Text>I head downstairs to eat.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>158</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>158</NodeID>
+			<Name>Mom</Name>
+			<Text>So what happened at school today?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>159</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>159</NodeID>
+			<Name>none</Name>
+			<Text>I start to tell her what happened today. She interrupts to scold me for using prisms.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>160</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>160</NodeID>
+			<Name>Mom</Name>
+			<Text>Didn’t I tell you not to get involved with the prism business? Those things drive people insane.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>161</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>161</NodeID>
+			<Name>You</Name>
+			<Text>Says the one who works at a prism company.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>162</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>162</NodeID>
+			<Name>Mom</Name>
+			<Text>Hey, I’m doing my part to pay the bills. Oh well, just don’t get too wrapped up in your paraself’s life.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>163</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>163</NodeID>
+			<Name>none</Name>
+			<Text>I finish telling her my story without any interruptions.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>164</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>164</NodeID>
+			<Name>Mom</Name>
+			<Text>That’s frustrating. I’ll have a talk with the principal tomorrow.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>165</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>165</NodeID>
+			<Name>You</Name>
+			<Text>Wait, I have an idea. If you let me create another paraself, we can scout the conversation in one world so that at least one timeline gets the result we want.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>166</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>166</NodeID>
+			<Name>Mom</Name>
+			<Text>As long as you promise to not use that prism after tomorrow.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>167</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>167</NodeID>
+			<Name>You</Name>
+			<Text>Thanks mom.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>168</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		
 	</Nodes>
 </Dialogue>
