@@ -292,7 +292,7 @@
 					<DestinationNodeID>25</DestinationNodeID>
 				</DialogueOption>
 				<DialogueOption>
-					<Text>Report the incident to the school.</Text>
+					<Text>report the incident to the school.</Text>
 					<DestinationNodeID>53</DestinationNodeID>
 					<Function>ReportPath</Function>
 				</DialogueOption>
