@@ -33,6 +33,7 @@
 					<DestinationNodeID>3</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>Bedroom</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>3</NodeID>
@@ -66,6 +67,7 @@
 					<DestinationNodeID>6</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>Car</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>6</NodeID>
@@ -99,6 +101,7 @@
 					<DestinationNodeID>9</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>SchoolFront</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>9</NodeID>
@@ -173,7 +176,7 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID>1</DestinationNodeID>
+					<DestinationNodeID>-1</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
