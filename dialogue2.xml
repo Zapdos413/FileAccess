@@ -2244,5 +2244,17 @@
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
+		<DialogueNode>
+			<NodeID>197</NodeID>
+			<Name>You</Name>
+			<Text>Hey Jim, do you think you could help me out?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>111</DestinationNodeID>
+					<!--Gets here from JimSplit running-->
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
 	</Nodes>
 </Dialogue>
