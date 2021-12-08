@@ -225,11 +225,11 @@
 			<Text>How about we both try and prove our innocence in different ways?</Text>
 			<Options>
 				<DialogueOption>
-					<Text>That sounds good.</Text>
+					<Text>"That sounds good."</Text>
 					<DestinationNodeID>22</DestinationNodeID>
 				</DialogueOption>
 				<DialogueOption>
-					<Text>Why would we do different things?</Text>
+					<Text>"Why would we do different things?"</Text>
 					<DestinationNodeID>20</DestinationNodeID>
 				</DialogueOption>
 			</Options>
@@ -262,11 +262,11 @@
 			<Text>How's this: one of us tells the principal what happens, and one of us tries to confront Kris in front of other students?</Text>
 			<Options>
 				<DialogueOption>
-					<Text>Sure</Text>
+					<Text>"Sure."</Text>
 					<DestinationNodeID>24</DestinationNodeID>
 				</DialogueOption>
 				<DialogueOption>
-					<Text>One of those sounds a lot more appealing than the other...</Text>
+					<Text>"One of those sounds a lot more appealing than the other..."</Text>
 					<DestinationNodeID>23</DestinationNodeID>
 				</DialogueOption>
 			</Options>
