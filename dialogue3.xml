@@ -25,7 +25,7 @@
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>2</NodeID>
-			<Name>[main]</Name>
+			<Name>You</Name>
 			<Text>Coming!</Text>
 			<Options>
 				<DialogueOption>
@@ -80,7 +80,7 @@
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>7</NodeID>
-			<Name>[main]</Name>
+			<Name>You</Name>
 			<Text>Yeah. The principal's office is to the right of the main entrance. I'll be waiting around there.</Text>
 			<Options>
 				<DialogueOption>
@@ -102,7 +102,7 @@
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>9</NodeID>
-			<Name>[main]</Name>
+			<Name>You</Name>
 			<Text>Bye Mom. Thanks so much.</Text>
 			<Options>
 				<DialogueOption>
@@ -157,7 +157,7 @@
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>14</NodeID>
-			<Name>[main]</Name>
+			<Name>You</Name>
 			<Text>I guess...</Text>
 			<Options>
 				<DialogueOption>
