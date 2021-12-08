@@ -2256,5 +2256,17 @@
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
+		<DialogueNode>
+			<!--Confront Kris path -->
+			<NodeID>198</NodeID>
+			<Name>You</Name>
+			<Text>Oh shoot, I forgot.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>85</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
 	</Nodes>
 </Dialogue>
