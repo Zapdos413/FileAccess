@@ -122,7 +122,7 @@
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>10</NodeID>
-			<Name>Kris</Name>
+			<Name>none</Name>
 			<Text>Kris deftly slides out of the way, simultaneously sweeping my legs out from under me. In the moment, I can't help but appreciate her fast reactions.</Text>
 			<Options>
 				<DialogueOption>
