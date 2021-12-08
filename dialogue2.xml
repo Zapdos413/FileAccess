@@ -1898,6 +1898,329 @@
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
-		
+		<DialogueNode>
+			<NodeID>168</NodeID>
+			<Name>Mom</Name>
+			<Text>I have a bunch of prisms from work. Here, let me get one for you.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>169</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>169</NodeID>
+			<Name>none</Name>
+			<Text>My mom heads up to her room and comes back down with an unactivated prism.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>170</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>170</NodeID>
+			<Name>Mom</Name>
+			<Text>I hope that this works.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>171</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>171</NodeID>
+			<Name>You</Name>
+			<Text>We should wait until a little closer to the principal before we activate it.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>172</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>172</NodeID>
+			<Name>Mom</Name>
+			<Text>I would, but I have to base my schedule around this. I don’t think it’ll change much if we just do it now.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>173</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>173</NodeID>
+			<Name>You</Name>
+			<Text>Ok then. Blue light side gets to make the final decision.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>174</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>174</NodeID>
+			<Name>none</Name>
+			<Text>I activate the prism. Again, a blue light flashes out from the prism.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>175</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>175</NodeID>
+			<Name>You</Name>
+			<Text>Okay. You know the plan, right?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>176</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>176</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>It’s your call, since I’m red.</Text>
+			<Options>
+				<!--Split 2-->
+				<DialogueOption>
+					<Text>"I'd like to go first."</Text>
+					<DestinationNodeID>177</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>"I'd like to go after you."</Text>
+					<DestinationNodeID>181</DestinationNodeID>
+					<Function>2b</Function>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>Trick my paraself into going first.</Text>
+					<DestinationNodeID>184</DestinationNodeID>
+					<Function>2c</Function>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>177</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Sounds like a plan. I guess we’ll check in tomorrow.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>178</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>178</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Thanks for doing the tough job, by the way.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>179</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>179</NodeID>
+			<Name>You</Name>
+			<Text>No problem. I’ll go tomorrow after school.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>180</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>180</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>I suppose I’ll go right after you then.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--converge at 189-->
+					<DestinationNodeID>189</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>181</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Fair is fair.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>182</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>182</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>I’ll go tomorrow morning then.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>183</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>183</NodeID>
+			<Name>You</Name>
+			<Text>Perfect, I'll go after school.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--converge at 189-->
+					<DestinationNodeID>189</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>184</NodeID>
+			<Name>You</Name>
+			<Text>I’ll go first. Can you go after school if I go in the morning?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>185</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>185</NodeID>
+			<Name>none</Name>
+			<Text>If I tell my paraself that I went and succeeded, they should go without hesitation.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>186</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>186</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>I don’t have an issue with that.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>187</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>187</NodeID>
+			<Name>none</Name>
+			<Text>After my paraself goes, I can see what happened in their world and plan around it.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>188</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>188</NodeID>
+			<Name>You</Name>
+			<Text>Perfect, I’ll go tomorrow before school then.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--converge-->
+					<DestinationNodeID>189</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--all paths from split 2 come back here-->
+			<NodeID>189</NodeID>
+			<Name>You</Name>
+			<Text>In any case, we should get ready for tomorrow. Talk to you later.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>190</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>190</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Ok, sounds good. Talk to you later.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>191</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>191</NodeID>
+			<Name>Mom</Name>
+			<Text>What time should I be there?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>192</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>192</NodeID>
+			<Name>You</Name>
+			<Text>After school. Just be there at the normal pick up time.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>193</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>193</NodeID>
+			<Name>Mom</Name>
+			<Text>Okay. Love you sweetie.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>194</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>194</NodeID>
+			<Name>You</Name>
+			<Text>Love you too mom.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>195</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>195</NodeID>
+			<Name>none</Name>
+			<Text>I head to my room, get ready for tomorrow, and head to sleep.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>-1</DestinationNodeID>
+					<Function>BeginDia3</Function>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
 	</Nodes>
 </Dialogue>
