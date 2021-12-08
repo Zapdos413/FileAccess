@@ -1165,7 +1165,7 @@
 				</DialogueOption>
 				<DialogueOption>
 					<Text>I'm not middle aged.</Text>
-					<DestinationNodeID>103</DestinationNodeID>
+					<DestinationNodeID>195</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
@@ -2219,6 +2219,17 @@
 					<Text>Continue</Text>
 					<DestinationNodeID>-1</DestinationNodeID>
 					<Function>BeginDia3</Function>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>195</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Middle aged enough to not use prisms regularly.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>103</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
