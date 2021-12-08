@@ -1857,7 +1857,7 @@
 		<DialogueNode>
 			<NodeID>163</NodeID>
 			<Name>none</Name>
-			<Text>I finish telling her my story without any interruptions.</Text>
+			<Text>I finish telling her my story without any further interruptions.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
