@@ -341,6 +341,7 @@
 					<DestinationNodeID>29</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>Hallway</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>29</NodeID>
@@ -473,6 +474,7 @@
 					<DestinationNodeID>41</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>Principals</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>41</NodeID>
@@ -638,6 +640,7 @@
 					<DestinationNodeID>56</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>Principals</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>56</NodeID>
@@ -759,6 +762,7 @@
 					<DestinationNodeID>67</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>Campus</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>67</NodeID>
@@ -1179,6 +1183,7 @@
 					<DestinationNodeID>104</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>Classroom</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>104</NodeID>
@@ -1488,6 +1493,7 @@
 					<DestinationNodeID>131</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>Campus</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>131</NodeID>
@@ -1761,6 +1767,7 @@
 					<DestinationNodeID>155</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>Bedroom</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>155</NodeID>
@@ -1798,6 +1805,7 @@
 					<DestinationNodeID>158</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>DiningRoom</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>158</NodeID>
@@ -2232,6 +2240,7 @@
 					<Function>BeginDia3</Function>
 				</DialogueOption>
 			</Options>
+			<Background>Bedroom</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>196</NodeID>
