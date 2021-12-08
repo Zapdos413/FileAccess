@@ -810,7 +810,7 @@
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>71</NodeID>
-			<Name>Sawyer's friend</Name>
+			<Name>Friend 1</Name>
 			<Text>This sounds like a conversation that we shouldn't be a part of. Catch you later, Sawyer!</Text>
 			<Options>
 				<DialogueOption>
@@ -821,7 +821,7 @@
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>72</NodeID>
-			<Name>Sawyer's Other Friend</Name>
+			<Name>Friend 2</Name>
 			<Text>Bye Sawyer!</Text>
 			<Options>
 				<DialogueOption>
