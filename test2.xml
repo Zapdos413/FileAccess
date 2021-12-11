@@ -13,8 +13,6 @@
 					<DestinationNodeID>1</DestinationNodeID>
 				</DialogueOption>
 			</Options>
-			<Sprite1>test</Sprite1>
-			<Sprite3>test</Sprite3>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>1</NodeID>
@@ -26,7 +24,6 @@
 					<DestinationNodeID>2</DestinationNodeID>
 				</DialogueOption>
 			</Options>
-			<Sprite2>test</Sprite2>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>2</NodeID>
@@ -54,6 +51,7 @@
 			<NodeID>4</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Good morning [main]!</Text>
+			<Sprite2>LyaHap</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>"Good morning, Lyanna!"</Text>
