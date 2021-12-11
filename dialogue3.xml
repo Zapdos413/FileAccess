@@ -1262,6 +1262,100 @@
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
+		<DialogueNode>
+			<NodeID>110</NodeID>
+			<Name>You</Name>
+			<Text>She’s the school president.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>111</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>111</NodeID>
+			<Name>Mom</Name>
+			<Text>You know what I meant!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>112</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>112</NodeID>
+			<Name>none</Name>
+			<Text>My mom drives faster.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>113</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>113</NodeID>
+			<Name>Mom</Name>
+			<Text>That principal is senseless, right?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>"Yeah."</Text>
+					<DestinationNodeID>114</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>...</Text>
+					<DestinationNodeID>114</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>114</NodeID>
+			<Name>Mom</Name>
+			<Text>I can’t believe this school. Maybe I’ll look for other schools because this one can’t do its job.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>115</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>115</NodeID>
+			<Name>none</Name>
+			<Text>She drives even faster. She must be well over the speed limit by now.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>116</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>116</NodeID>
+			<Name>Mom</Name>
+			<Text>and not bringing someone in because of SOCCER PRACTICE? What a joke!</Text>
+			<Background>Black</Background>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>117</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>117</NodeID>
+			<Name>You</Name>
+			<Text>MOM.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>118</DestinationNodeID>
+					<Function>CrashCar</Function>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
 		
 		
 		<!--
