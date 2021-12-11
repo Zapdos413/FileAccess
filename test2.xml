@@ -21,6 +21,9 @@
 			<NodeID>1</NodeID>
 			<Name>You</Name>
 			<Text>You too mom.</Text>
+			<Sprite1>LyaHap</Sprite1>
+			<Sprite2>XXLyaHap</Sprite2>
+			<Sprite3>LyaHap</Sprite3>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
