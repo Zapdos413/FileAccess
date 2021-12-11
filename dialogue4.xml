@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Dialogue xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="https://www.w3.org/2001/XMLSchema">
 	<Nodes>
-    <DialogueNode>
+    		<DialogueNode>
 			<NodeID>0</NodeID>
 			<Name>none</Name>
-			<Text>something here</Text>
+			<Text>I open my eyes. Everything seems unfamiliar.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -12,5 +12,29 @@
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
+		<DialogueNode>
+			<NodeID>1</NodeID>
+			<Name>Doctor</Name>
+			<Text>Oh, you’re up. You’re one extremely lucky kid, you know.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>-1</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		
+		<!--
+		<DialogueNode>
+			<NodeID></NodeID>
+			<Name></Name>
+			<Text></Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID></DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>-->
 	</Nodes>
 </Dialogue>
