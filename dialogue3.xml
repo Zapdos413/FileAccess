@@ -483,7 +483,7 @@
 					<Text>Continue</Text>
 					<DestinationNodeID>44</DestinationNodeID>
 					<!--splits into whichever path you chose earlier-->
-					<!--44 is 2a, x is 2b, y is 2c-->
+					<!--44 is 2a, 49 is 2b, 55 is 2c-->
 					<Function>PreconvoSplit</Function>
 				</DialogueOption>
 			</Options>
@@ -496,7 +496,7 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>49</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
@@ -508,7 +508,7 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>55</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
@@ -560,12 +560,464 @@
 		<DialogueNode>
 			<NodeID>48</NodeID>
 			<Name>none</Name>
-			<Text>I wait until my mom arrives. Why do I have to do this? Why couldn’t the school just have believed me the first time?</Text>
+			<Text>Why couldn’t the school just have believed me the first time? While I wait for my mom, I keep my prism on and chat with my paraself. She arrives, and I keep it on per my paraself’s request.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
 					<!--converge later-->
+					<DestinationNodeID>57</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>49</NodeID>
+			<Name>none</Name>
+			<Text>I message my paraself.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>50</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>50</NodeID>
+			<Name>You</Name>
+			<Text>It’s almost time for me to go. What happened on your end?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>51</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>51</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>It went exactly as I wanted it to. We managed to bring Kris into the office and got her to confess.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>52</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>52</NodeID>
+			<Name>You</Name>
+			<Text>Should I do the same thing?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>53</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>53</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>If it worked for me, I don't see why not.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>54</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>54</NodeID>
+			<Name>none</Name>
+			<Text>My plan in mind, I wait for my mom to arrive.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--converge-->
+					<DestinationNodeID>57</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>55</NodeID>
+			<Name>none</Name>
+			<Text>I blew my opportunity to get some help from my paraself. I suppose that’s my fault.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>56</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>56</NodeID>
+			<Name>none</Name>
+			<Text>With nothing to do, I wait around anxiously until my mom arrives.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--converge with 2a and 2b at 57-->
+					<DestinationNodeID>57</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>57</NodeID>
+			<Name>Mom</Name>
+			<Text>I called ahead so they know I’ll be here. Are you ready?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>58</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>58</NodeID>
+			<Name>You</Name>
+			<Text>Yeah, let's get this over with.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>59</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>59</NodeID>
+			<Name>none</Name>
+			<Text>We make our way to the principal’s office. My shoes feel like they're made of lead.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>60</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>60</NodeID>
+			<Name>Principal</Name>
+			<Text>Good afternoon, ma’am. You’re [main]’s mother, I presume?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>61</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>61</NodeID>
+			<Name>Mom</Name>
+			<Text>That's right.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>62</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>62</NodeID>
+			<Name>Principal</Name>
+			<Text>What would you like to discuss?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>63</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>63</NodeID>
+			<Name>Mom</Name>
+			<Text>How could you let my child get attacked in the locker room and do nothing about it?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>64</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>64</NodeID>
+			<Name>Principal</Name>
+			<Text>We have no idea what happened in the locker room yesterday. While we have heard your complaints, we have no reason to believe that Kris has done anything wrong.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>65</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>65</NodeID>
+			<Name>Mom</Name>
+			<Text>Are you calling my child a liar?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>66</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>66</NodeID>
+			<Name>Principal</Name>
+			<Text>We aren’t calling anybody anything.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>67</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>67</NodeID>
+			<Name>Principal</Name>
+			<Text>Yesterday, we had a chat with the student in question, Kris, who both claimed that she didn’t attack your child and that she and your child had a previously good relationship.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>68</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>68</NodeID>
+			<Name>Principal</Name>
+			<Text>She also said that she helped your child with their homework, and that she lent your child her homework to check answers when [main] tried to pass off Kris’s homework as their own.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>69</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>69</NodeID>
+			<Name>Mom</Name>
+			<Text>And you believe Kris’s story?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>70</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>70</NodeID>
+			<Name>Principal</Name>
+			<Text>Ma’am, I understand your frustration, but there wasn’t anyone else in the locker room at the time. There’s nothing we can do about it anymore.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>71</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>71</NodeID>
+			<Name>Mom</Name>
+			<Text>Have you checked the homework she turned in?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>72</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>72</NodeID>
+			<Name>Principal</Name>
+			<Text>Yes, we have. It has her name on it, and everything is in her handwriting.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>73</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>73</NodeID>
+			<Name>none</Name>
+			<Text>My mom takes a moment to think.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>74</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>74</NodeID>
+			<Name>Mom</Name>
+			<Text>My child gets mugged and there's nothing you can do about it? Some school.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>75</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>75</NodeID>
+			<Name>Principal</Name>
+			<Text>Ma’am, what would you like us to do?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>76</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>76</NodeID>
+			<Name>Mom</Name>
+			<Text>Believe my child and punish the assailant.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>77</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>77</NodeID>
+			<Name>Principal</Name>
+			<Text>I’m afraid we can’t do that ma’am.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>83</DestinationNodeID>
+					<!--run this little segment on 2b from 78 set. on the other paths, go straight to 83-->
+					<Function>TwoBSpecial</Function>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--2b segment-->
+			<NodeID>78</NodeID>
+			<Name>Principal</Name>
+			<Text>I’m afraid we can’t do that ma’am.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>79</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>79</NodeID>
+			<Name>You</Name>
+			<Text>Can we bring in Kris?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>80</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>80</NodeID>
+			<Name>Principal</Name>
+			<Text>Kris is a busy girl. She’s in soccer practice right now, I believe.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>81</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>81</NodeID>
+			<Name>Mom</Name>
+			<Text>Are you telling me that you can’t bring in a thief because of soccer practice?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>82</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>82</NodeID>
+			<Name>Principal</Name>
+			<Text>Out of respect for her time, we cannot.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--converge-->
+					<DestinationNodeID>83</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--converge-->
+			<NodeID>83</NodeID>
+			<Name>none</Name>
+			<Text>In all of my 16 years, I’ve never seen my mom this mad.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>84</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>84</NodeID>
+			<Name>Mom</Name>
+			<Text>Well, thank you for your “help” today.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>85</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--split this into 2a, 2b, and 2c-->
+			<NodeID>85</NodeID>
+			<Name>none</Name>
+			<Text>My mom storms out of the office and I follow her.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--run 2a-->
+					<DestinationNodeID>88</DestinationNodeID>
+					<Function>Path2SplitResult</Function>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--split this into 2a, 2b, and 2c-->
+			<NodeID>86</NodeID>
+			<Name>none</Name>
+			<Text>My mom storms out of the office and I follow her.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
 					<DestinationNodeID></DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--split this into 2a, 2b, and 2c-->
+			<NodeID>87</NodeID>
+			<Name>none</Name>
+			<Text>My mom storms out of the office and I follow her.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID></DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>88</NodeID>
+			<Name>none</Name>
+			<Text>I avoid my mom’s gaze as we walk towards the car.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>-1</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
