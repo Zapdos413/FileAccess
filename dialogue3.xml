@@ -1008,7 +1008,7 @@
 				<DialogueOption>
 					<Text>Continue</Text>
 					<!--do 2c result-->
-					<DestinationNodeID>-1</DestinationNodeID>
+					<DestinationNodeID>100</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
@@ -1351,7 +1351,7 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID>118</DestinationNodeID>
+					<DestinationNodeID>-1</DestinationNodeID>
 					<Function>CrashCar</Function>
 				</DialogueOption>
 			</Options>
