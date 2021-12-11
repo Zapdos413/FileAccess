@@ -7,6 +7,9 @@
 			<Name>Mom</Name>
 			<Text>Have a good day!</Text>
 			<Background>SchoolFront</Background>
+			<Sprite1>LyaHap</Sprite1>
+			<Sprite2>LyaHap</Sprite2>
+			<Sprite3>LyaHap</Sprite3>			
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
