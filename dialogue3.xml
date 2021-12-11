@@ -176,9 +176,411 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID>-1</DestinationNodeID>
+					<DestinationNodeID>17</DestinationNodeID>
+					<Function>LyannaSplit</Function>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
+		<DialogueNode>
+			<!--this is to branch off into the 2c path. 2c path starts on a different node that 2a and 2b-->
+			<!--2c starts at 23-->
+			<NodeID>16</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Let me buy you a cookie. It's the least I can do.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>17</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--path 2a and 2b-->
+			<NodeID>17</NodeID>
+			<Name>You</Name>
+			<Text>Thanks.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>18</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>18</NodeID>
+			<Name>none</Name>
+			<Text>We head towards the cafeteria. I look around for Kris, but don’t catch a glimpse of her.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>19</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>19</NodeID>
+			<Name>Lyanna</Name>
+			<Text>I’ll try my best to stick with you today. Kris can’t attack you if we’re together.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>20</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>20</NodeID>
+			<Name>You</Name>
+			<Text>Lyanna, why do you believe me?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>21</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>21</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Why would I not? It’s not like Kris is some sort of goddess or something.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>22</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>22</NodeID>
+			<Name>none</Name>
+			<Text>I smile. What did I do to deserve a friend like this?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--converge with 2c-->
+					<DestinationNodeID>39</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--path 2c-->
+			<NodeID>23</NodeID>
+			<Name>You</Name>
+			<Text>Hold on, my paraself is messaging me.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>24</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>24</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Oh, are you getting along with them?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>25</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>25</NodeID>
+			<Name>You</Name>
+			<Text>I, uhh, yeah, you could say that.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>26</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>26</NodeID>
+			<Name>none</Name>
+			<Text>I’d rather not admit to Lyanna that I’m manipulating my paraself.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>27</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>27</NodeID>
+			<Name>Lyanna</Name>
+			<Text>That’s great, [main]! It took me a while to accept some parts of myself.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>28</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>28</NodeID>
+			<Name>none</Name>
+			<Text>I look at the message, hiding my shame.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>29</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>29</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Have you started your conversation?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>30</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>30</NodeID>
+			<Name>You</Name>
+			<Text>Not yet.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>31</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>31</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>If you don’t mind me asking, could you leave the prism on so I can hear the conversation?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>"I can't do that."</Text>
+					<DestinationNodeID>32</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>"Sorry, gotta go"</Text>
+					<DestinationNodeID>32</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>32</NodeID>
+			<Name>none</Name>
+			<Text>This wasn’t supposed to happen.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>33</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>33</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>34</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>34</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>I respect the hustle, but it was a stretch to think that you could trick yourself.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>"I'm sorry."</Text>
+					<DestinationNodeID>36</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>"You got me."</Text>
+					<DestinationNodeID>36</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>"What?"</Text>
+					<DestinationNodeID>35</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>35</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Don't lie to me.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>36</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>36</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>I would be mad at you, but I would have done the same thing. How about we both go at the same time? I’m not going to help you with anything though.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>37</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>37</NodeID>
+			<Name>You</Name>
+			<Text>Fair is fair.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>38</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>38</NodeID>
+			<Name>none</Name>
+			<Text>And thus, my plan to trick myself was ruined.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>39</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--converge-->
+			<NodeID>39</NodeID>
+			<Name>none</Name>
+			<Text>School is a blur. I guess I shouldn’t have expected to be able to focus today.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>40</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>40</NodeID>
+			<Name>none</Name>
+			<Text>I get a text from my mom.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>41</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>41</NodeID>
+			<Name>Mom</Name>
+			<Text>I’m just leaving the house. I’ll be there soon.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>44</DestinationNodeID>
+					<!--splits into whichever path you chose earlier-->
+					<!--44 is 2a, x is 2b, y is 2c-->
+					<Function>PreconvoSplit</Function>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--used to branch off into 2b-->
+			<NodeID>42</NodeID>
+			<Name>Mom</Name>
+			<Text>I’m just leaving the house. I’ll be there soon.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID></DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--used to branch into 2c-->
+			<NodeID>43</NodeID>
+			<Name>Mom</Name>
+			<Text>I’m just leaving the house. I’ll be there soon.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID></DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!---->
+			<NodeID>44</NodeID>
+			<Name>You</Name>
+			<Text>I message my paraself that I’m almost ready to start my conversation with the principal.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>45</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>45</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Do you mind turning the prism on during the conversation so I can hear everything that happens?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>46</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>46</NodeID>
+			<Name>You</Name>
+			<Text>I don't mind.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>47</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>47</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Thanks.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>48</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>48</NodeID>
+			<Name>none</Name>
+			<Text>I wait until my mom arrives. Why do I have to do this? Why couldn’t the school just have believed me the first time?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--converge later-->
+					<DestinationNodeID></DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		
+		<!--
+		<DialogueNode>
+			<NodeID></NodeID>
+			<Name></Name>
+			<Text></Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID></DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode> -->
 	</Nodes>
 </Dialogue>
