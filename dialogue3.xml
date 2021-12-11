@@ -994,7 +994,8 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<!--do 2b result-->
+					<DestinationNodeID>94</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
@@ -1006,7 +1007,8 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<!--do 2c result-->
+					<DestinationNodeID>-1</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
@@ -1017,10 +1019,250 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID>-1</DestinationNodeID>
+					<DestinationNodeID>89</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
+		<DialogueNode>
+			<NodeID>89</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>That went poorly.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>90</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>90</NodeID>
+			<Name>You</Name>
+			<Text>You could say that.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>91</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>91</NodeID>
+			<Name>none</Name>
+			<Text>It feels like the end of the world.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>92</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>92</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>I hope I can change something to make my side go better.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>93</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>93</NodeID>
+			<Name>none</Name>
+			<Text>I put away my prism. It’s hard to care about my paraself’s world right now.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--converge-->
+					<DestinationNodeID>108</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>94</NodeID>
+			<Name>none</Name>
+			<Text>I avoid my mom’s gaze as we walk towards the car, messaging my paraself on the way.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>95</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>95</NodeID>
+			<Name>You</Name>
+			<Text>It didn’t go well. Mr. Thomas wouldn’t bring in Kris.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>96</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>96</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Good to know.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>97</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>97</NodeID>
+			<Name>You</Name>
+			<Text>What do you mean, “Good to know”? Didn’t you go already?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>98</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>98</NodeID>
+			<Name>none</Name>
+			<Text>It only now occurred to me that my paraself could have tricked me. I’m so stupid.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>99</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>99</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Well, see you later.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--converge-->
+					<DestinationNodeID>108</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--2c-->
+			<NodeID>100</NodeID>
+			<Name>none</Name>
+			<Text>My paraself messages me as I walk to the car.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>101</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>101</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Sooo, how did you do?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>"Fine."</Text>
+					<DestinationNodeID>102</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>"I hate my life."</Text>
+					<DestinationNodeID>103</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>102</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>That doesn’t sound like the response you’d give if things went well.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>104</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>103</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Sounds like you failed.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>104</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>104</NodeID>
+			<Name>none</Name>
+			<Text>I’m afraid to find out how my paraself did. They don’t keep me waiting though.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>105</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>105</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>If only you had just asked nicely, your conversation could have gone as well as mine.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>106</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>106</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Jim Beaux is a legend.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>107</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>107</NodeID>
+			<Name>none</Name>
+			<Text>I want to cry.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--converge-->
+					<DestinationNodeID>108</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>108</NodeID>
+			<Name>none</Name>
+			<Text>My mom only starts venting once we get in the car.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>109</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>109</NodeID>
+			<Name>Mom</Name>
+			<Text>Who does that principal think Kris is? From the way he defends her, she must be the president.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>110</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		
 		
 		<!--
 		<DialogueNode>
