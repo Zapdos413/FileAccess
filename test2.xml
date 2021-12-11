@@ -35,6 +35,9 @@
 			<NodeID>2</NodeID>
 			<Name>none</Name>
 			<Text>Another day, another six periods of school. Finally, a day without any tests or projects.</Text>
+			<Sprite1>LyaHap</Sprite1>
+			<Sprite2>LyaHap</Sprite2>
+			<Sprite3>XXLyaHap</Sprite3>
 			<Options>
 				<DialogueOption>
 					<Text>continue</Text>
@@ -57,7 +60,9 @@
 			<NodeID>4</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Good morning [main]!</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Sprite2>LyaHap</Sprite2>
+			<Sprite3>LyaHap</Sprite3>
 			<Options>
 				<DialogueOption>
 					<Text>"Good morning, Lyanna!"</Text>
