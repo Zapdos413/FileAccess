@@ -1337,7 +1337,6 @@
 			<NodeID>116</NodeID>
 			<Name>Mom</Name>
 			<Text>and not bringing someone in because of SOCCER PRACTICE? What a joke!</Text>
-			<Background>Black</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1349,6 +1348,7 @@
 			<NodeID>117</NodeID>
 			<Name>You</Name>
 			<Text>MOM.</Text>
+			<Background>Black</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
