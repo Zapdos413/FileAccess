@@ -1050,7 +1050,7 @@
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>92</NodeID>
-			<Name>You</Name>
+			<Name>Paraself 1</Name>
 			<Text>Yeah, as it turns out, we’re not Kris’s first victim. Another victim spoke up when I was confronting Kris, and the crowd actually turned on her.</Text>
 			<Options>
 				<DialogueOption>
