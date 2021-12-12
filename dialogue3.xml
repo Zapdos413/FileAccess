@@ -1357,6 +1357,19 @@
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
+		<DialogueNode>
+			<!--this is to branch off into the 2c path. 2c path starts on a different node that 2a and 2b-->
+			<!--2c starts at 23-->
+			<NodeID>118</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Let me buy you a cookie. It's the least I can do.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>23</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
 		
 		
 		<!--
