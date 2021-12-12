@@ -1128,7 +1128,7 @@
 		<DialogueNode>
 			<NodeID>99</NodeID>
 			<Name>Paraself 1</Name>
-			<Text>They’re in our English period class, remember? He’s the kid who wears the school hoodie and barely participates.</Text>
+			<Text>They’re in our English class, remember? He’s the kid who wears that weird Marble shirt everyday and barely participates.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
