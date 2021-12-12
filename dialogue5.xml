@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Dialogue xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="https://www.w3.org/2001/XMLSchema">
 	<Nodes>
-    <DialogueNode>
+    		<DialogueNode>
 			<NodeID>0</NodeID>
 			<Name>none</Name>
-			<Text>something here</Text>
+			<Text>I wake up to the sound of the doorbell and check my clock. It’s already past noon?</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -12,5 +12,41 @@
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
+		<DialogueNode>
+			<NodeID>1</NodeID>
+			<Name>none</Name>
+			<Text>The doorbell rings again. I’d better go answer it.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>2</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>2</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Are you there, [main]? Sorry I missed your call earlier.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>-1</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		
+		<!--
+		<DialogueNode>
+			<NodeID></NodeID>
+			<Name>none</Name>
+			<Text></Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID></DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		-->
 	</Nodes>
 </Dialogue>
