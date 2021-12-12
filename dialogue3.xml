@@ -773,7 +773,7 @@
 		<DialogueNode>
 			<NodeID>67</NodeID>
 			<Name>Principal</Name>
-			<Text>Yesterday, we had a chat with the student in question, Kris, who both claimed that she didn’t attack your child and that she and your child had a previously good relationship.</Text>
+			<Text>Yesterday, we had a chat with Kris, who both claimed that she didn’t attack your child and that she and your child had a previously good relationship.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
