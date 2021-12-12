@@ -15,11 +15,691 @@
 		<DialogueNode>
 			<NodeID>1</NodeID>
 			<Name>Doctor</Name>
-			<Text>Oh, you’re up. You’re one extremely lucky kid, you know.</Text>
+			<Text>Oh, you’re up. You’re one lucky kid, you know.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>2</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>2</NodeID>
+			<Name>none</Name>
+			<Text>I try to say something, but it comes out as an unintelligible mumble.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>3</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>3</NodeID>
+			<Name>Doctor</Name>
+			<Text>You got brought here about 16 hours ago.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>4</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>4</NodeID>
+			<Name>You</Name>
+			<Text>Sixteen?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>5</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>5</NodeID>
+			<Name>Doctor</Name>
+			<Text>Yeah. Your car rolled off the highway. It’s almost a miracle that you’re only suffering from stress and no physical injuries.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>6</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>6</NodeID>
+			<Name>You</Name>
+			<Text>What about my mom…?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>7</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>7</NodeID>
+			<Name>Doctor</Name>
+			<Text>She’s… in critical condition.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>8</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>8</NodeID>
+			<Name>none</Name>
+			<Text>I can’t believe what I’m hearing. How could I have let this happen?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>9</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>9</NodeID>
+			<Name>You</Name>
+			<Text>Can I see her?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>10</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>10</NodeID>
+			<Name>Doctor</Name>
+			<Text>Yes, but please wait a little while longer. I just want to make sure you’re okay first.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>11</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>11</NodeID>
+			<Name>none</Name>
+			<Text>My body feels mostly fine, but my mind can’t get over the incident.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>12</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>12</NodeID>
+			<Name>none</Name>
+			<Text>I look around for my bag and see it on a table nearby.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>13</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>13</NodeID>
+			<Name>You</Name>
+			<Text>Excuse me, Mr. Doctor, can I have my bag?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>14</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>14</NodeID>
+			<Name>Doctor</Name>
+			<Text>Sure.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>15</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>15</NodeID>
+			<Name>none</Name>
+			<Text>He smiles with pity and hands me my things.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>16</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>16</NodeID>
+			<Name>none</Name>
+			<Text>I quickly pull out my prism and look for new notifications, but don’t see any. I send a message to my more recent paraself.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>17</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>17</NodeID>
+			<Name>You</Name>
+			<Text>Are you okay?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>18</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>18</NodeID>
+			<Name>none</Name>
+			<Text>It takes a little while to get a response.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>19</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>19</NodeID>
+			<Name>Paraself 2</Name>
+			<Text>Why would I not be? How about you?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>20</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>20</NodeID>
+			<Name>none</Name>
+			<Text>I don’t get it. Why only me? Why was I the one to suffer?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>21</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>21</NodeID>
+			<Name>none</Name>
+			<Text>One day later, I’m discharged from the hospital. In one of her rare moments of consciousness, my mom tells me to check on the house. I guess I’ll…</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Walk home.</Text>
+					<DestinationNodeID>22</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>Call Lyanna.</Text>
+					<DestinationNodeID>28</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>Call Sawyer.</Text>
+					<DestinationNodeID>43</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--walk home path-->
+			<NodeID>22</NodeID>
+			<Name>none</Name>
+			<Text>I’ve had enough of car rides for now.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>23</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>23</NodeID>
+			<Name>none</Name>
+			<Text>While I walk, my mind wanders.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>24</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>24</NodeID>
+			<Name>none</Name>
+			<Text>I can’t stop thinking about my mom.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>25</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>25</NodeID>
+			<Name>none</Name>
+			<Text>Maybe I’m just cursed.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>26</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>26</NodeID>
+			<Name>none</Name>
+			<Text>Maybe this is the price of using a prism.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>27</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>27</NodeID>
+			<Name>none</Name>
+			<Text>I get home and drop onto the couch, mentally exhausted.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--converge-->
+					<DestinationNodeID>46</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--Call Lyanna path-->
+			<NodeID>28</NodeID>
+			<Name>none</Name>
+			<Text>I pull out my phone and give Lyanna a call. She picks up.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>29</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>29</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Hey, [main].</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>30</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>30</NodeID>
+			<Name>You</Name>
+			<Text>Hey Lyanna, could you pick me up from the Tommery Hospital?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>31</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>32</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Hospital? What happened?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>33</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>33</NodeID>
+			<Name>You</Name>
+			<Text>My mom…</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>34</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>34</NodeID>
+			<Name>none</Name>
+			<Text>I can’t finish my sentence without visualizing her wounded body.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>35</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>35</NodeID>
+			<Name>Lyanna</Name>
+			<Text>I’ll be there soon, [main].</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>36</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>36</NodeID>
+			<Name>none</Name>
+			<Text>About ten minutes later, Lyanna shows up.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>37</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>37</NodeID>
+			<Name>You</Name>
+			<Text>You’re not legally allowed to take me home, are you?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>38</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>38</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Shhhhhhh, I’m trying not to make it obvious!!!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>39</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>39</NodeID>
+			<Name>none</Name>
+			<Text>While Lyanna’s antics are quite childish, I appreciate her goodwill. I get into her car.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>40</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>40</NodeID>
+			<Name>none</Name>
+			<Text>On the way back, Lyanna tries to make conversation a couple of times but can tell that I need to be alone. She drops me off after a silent ride.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>41</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>41</NodeID>
+			<Name>Lyanna</Name>
+			<Text>Bye [main]! Call me if you need anything. It’ll be my excuse to get out of class.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>42</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>42</NodeID>
+			<Name>none</Name>
+			<Text>I leave her and enter my house.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<!--converge-->
+					<DestinationNodeID>46</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<!--Sawyer call-->
+			<NodeID>43</NodeID>
+			<Name>none</Name>
+			<Text>My phone rings out, and Sawyer doesn’t pick up.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>44</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>44</NodeID>
+			<Name>none</Name>
+			<Text>Sawyer’s usually always online, but I cut them some slack. It’s seven in the morning after all.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>45</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>45</NodeID>
+			<Name>none</Name>
+			<Text>I suppose I’ll have to pick a different way home.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Walk home.</Text>
+					<DestinationNodeID>22</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>Call Lyanna.</Text>
+					<DestinationNodeID>28</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>46</NodeID>
+			<Name>none</Name>
+			<Text>Nothing takes my mind off of the condition of my mom. If there’s any way for me to make sure my mom lives, I’d do it in a heartbeat.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>47</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>47</NodeID>
+			<Name>none</Name>
+			<Text>Is there anyone who can help me? I message my first paraself.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>48</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>48</NodeID>
+			<Name>You</Name>
+			<Text>Hey, can you help me find a way to cure my mom?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>49</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>49</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>What happened?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>50</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>50</NodeID>
+			<Name>You</Name>
+			<Text>She got hurt in a car crash, and the doctors don’t know how to stabilize her.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>51</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>51</NodeID>
+			<Name>Paraself 1</Name>
+			<Text>I haven’t learned any medical knowledge since we split. Maybe you should reach out to some more doctors, and maybe a paraself can help you search.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>52</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>52</NodeID>
+			<Name>none</Name>
+			<Text>I rush towards my mom’s room in search of her stash of prisms.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>53</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>53</NodeID>
+			<Name>none</Name>
+			<Text>Her closet? I should have known.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>54</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>54</NodeID>
+			<Name>none</Name>
+			<Text>I activate a prism.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>55</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>55</NodeID>
+			<Name>none</Name>
+			<Text>What did I just do?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>56</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>56</NodeID>
+			<Name>none</Name>
+			<Text>I activate another prism.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>57</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>57</NodeID>
+			<Name>none</Name>
+			<Text>Did I just create a new suffering me?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>58</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>58</NodeID>
+			<Name>none</Name>
+			<Text>I activate another prism.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>59</DestinationNodeID>
+					<Function>TextSpeedDown</Function>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>59</NodeID>
+			<Name>none</Name>
+			<Text>HELP ME</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>60</DestinationNodeID>
+					<Function>TextSpeedNormal</Function>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>60</NodeID>
+			<Name>none</Name>
+			<Text>I cry on the floor of my mom’s room. Is this reality? The image of eight versions of me all crying on the floor hurts to picture.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>61</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>61</NodeID>
+			<Name>none</Name>
+			<Text>I’m tired. The doctors can wait. I hope my mom can.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>62</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>62</NodeID>
+			<Name>none</Name>
+			<Text>I don’t know anymore.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
 					<DestinationNodeID>-1</DestinationNodeID>
+					<Function>StartDia5</Function>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
