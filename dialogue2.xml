@@ -1880,7 +1880,7 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID>165</DestinationNodeID>
+					<DestinationNodeID>199</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
@@ -2274,6 +2274,28 @@
 				<DialogueOption>
 					<Text>Continue</Text>
 					<DestinationNodeID>85</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>199</NodeID>
+			<Name>You</Name>
+			<Text>That sounds good. Thanks, mom.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>200</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>200</NodeID>
+			<Name>none</Name>
+			<Text>I don't want to think about what would happen if the school still doesn't believe me.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>165</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
