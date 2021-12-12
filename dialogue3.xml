@@ -784,7 +784,7 @@
 		<DialogueNode>
 			<NodeID>68</NodeID>
 			<Name>Principal</Name>
-			<Text>She also said that she helped your child with their homework, and that she lent your child her homework to check answers when [main] tried to pass off Kris’s homework as their own.</Text>
+			<Text>She also said that she lent your child her homework to check answers when [main] tried to pass off Kris’s homework as their own.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
