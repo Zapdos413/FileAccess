@@ -191,6 +191,7 @@
 				<DialogueOption>
 					<Text>Continue</Text>
 					<DestinationNodeID>17</DestinationNodeID>
+					<Function>AlternateFor2c</Function>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
