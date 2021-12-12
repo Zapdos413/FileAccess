@@ -349,7 +349,18 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID>31</DestinationNodeID>
+					<DestinationNodeID>32</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>31</NodeID>
+			<Name>none</Name>
+			<Text>If you're reading this, I have made a mistake XD</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>32</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
