@@ -474,7 +474,6 @@
 					<DestinationNodeID>41</DestinationNodeID>
 				</DialogueOption>
 			</Options>
-			<Background>Principals</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>41</NodeID>
@@ -508,6 +507,7 @@
 					<DestinationNodeID>44</DestinationNodeID>
 				</DialogueOption>
 			</Options>
+			<Background>Principals</Background>
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>44</NodeID>
