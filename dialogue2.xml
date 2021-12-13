@@ -1596,7 +1596,6 @@
 			<NodeID>130</NodeID>
 			<Name>none</Name>
 			<Text>Sawyer and I head out of the math wing. I bring out my prism and message my paraself on the way.</Text>
-			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
