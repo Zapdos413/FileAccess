@@ -16,7 +16,7 @@
 		<DialogueNode>
 			<NodeID>1</NodeID>
 			<Name>none</Name>
-			<Text>I look at Sawyers tombstone again.</Text>
+			<Text>I look at Sawyer's tombstone again.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
