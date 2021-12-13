@@ -60,6 +60,7 @@
 			<NodeID>5</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Lyanna told me what happened at school, so I slipped out during lunch. How are you feeling?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -71,6 +72,7 @@
 			<NodeID>6</NodeID>
 			<Name>You</Name>
 			<Text>...</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -82,6 +84,7 @@
 			<NodeID>7</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Can I come in?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -93,6 +96,7 @@
 			<NodeID>8</NodeID>
 			<Name>none</Name>
 			<Text>I don’t say anything and Sawyer enters anyway.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -104,6 +108,7 @@
 			<NodeID>9</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Do you need to talk about what you’re going through? Don’t push yourself though.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -115,6 +120,7 @@
 			<NodeID>10</NodeID>
 			<Name>You</Name>
 			<Text>It’s my fault.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -126,6 +132,7 @@
 			<NodeID>11</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Huh? What are you talking about?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -137,6 +144,7 @@
 			<NodeID>12</NodeID>
 			<Name>You</Name>
 			<Text>My paraself protected mom, but I couldn’t.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -148,6 +156,7 @@
 			<NodeID>13</NodeID>
 			<Name>You</Name>
 			<Text>It’s my fault that we crashed in the first place.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -159,6 +168,7 @@
 			<NodeID>14</NodeID>
 			<Name>You</Name>
 			<Text>Is there something wrong with me, Sawyer?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -170,6 +180,7 @@
 			<NodeID>15</NodeID>
 			<Name>none</Name>
 			<Text>My phone rudely interrupts us. I go to turn it off, but I see it’s from the hospital.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -181,6 +192,7 @@
 			<NodeID>16</NodeID>
 			<Name>none</Name>
 			<Text>With trepidation, I pick up the phone.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -192,6 +204,7 @@
 			<NodeID>17</NodeID>
 			<Name>You</Name>
 			<Text>Hello?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -203,6 +216,7 @@
 			<NodeID>19</NodeID>
 			<Name>Doctor</Name>
 			<Text>This is [main], correct?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -214,6 +228,7 @@
 			<NodeID>20</NodeID>
 			<Name>You</Name>
 			<Text>Yeah.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -225,6 +240,7 @@
 			<NodeID>21</NodeID>
 			<Name>Doctor</Name>
 			<Text>I regret to inform you...</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -236,6 +252,7 @@
 			<NodeID>22</NodeID>
 			<Name>none</Name>
 			<Text>I don’t want to hear it. I hang up.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -247,6 +264,7 @@
 			<NodeID>23</NodeID>
 			<Name>none</Name>
 			<Text>My phone clatters to the ground. Everything is blurry.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -258,6 +276,7 @@
 			<NodeID>24</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Are you alright? What happened?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -269,6 +288,7 @@
 			<NodeID>25</NodeID>
 			<Name>You</Name>
 			<Text>...</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -280,6 +300,7 @@
 			<NodeID>26</NodeID>
 			<Name>You</Name>
 			<Text>She’s...gone.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -291,6 +312,7 @@
 			<NodeID>27</NodeID>
 			<Name>none</Name>
 			<Text>My voice is barely audible.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -302,6 +324,7 @@
 			<NodeID>28</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Your mom?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -313,6 +336,7 @@
 			<NodeID>29</NodeID>
 			<Name>Sawyer</Name>
 			<Text>I’m so sorry [main]. I-</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -324,6 +348,7 @@
 			<NodeID>30</NodeID>
 			<Name>none</Name>
 			<Text>We sit in silence for a while.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -335,6 +360,7 @@
 			<NodeID>31</NodeID>
 			<Name>none</Name>
 			<Text>Almost mindlessly, I walk towards the stash of prisms my mom kept. I activate one without thinking.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -346,6 +372,7 @@
 			<NodeID>32</NodeID>
 			<Name>none</Name>
 			<Text>The screen starts to activate.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -357,6 +384,7 @@
 			<NodeID>33</NodeID>
 			<Name>none</Name>
 			<Text>Wait...</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -368,6 +396,7 @@
 			<NodeID>34</NodeID>
 			<Name>none</Name>
 			<Text>I shut down the prism just as it connects in terror.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -379,6 +408,7 @@
 			<NodeID>35</NodeID>
 			<Name>You</Name>
 			<Text>Sawyer?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -390,6 +420,7 @@
 			<NodeID>36</NodeID>
 			<Name>none</Name>
 			<Text>Sawyer responds, but weakly.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -401,6 +432,7 @@
 			<NodeID>37</NodeID>
 			<Name>You</Name>
 			<Text>I just activated a prism. Oh god, did I just kill my mom again?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -412,6 +444,7 @@
 			<NodeID>38</NodeID>
 			<Name>Sawyer</Name>
 			<Text>I- I don’t even know anymore.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -423,6 +456,7 @@
 			<NodeID>39</NodeID>
 			<Name>none</Name>
 			<Text>I choke back a sob, then hear another one. I turn around. It seems like Sawyer was sniffling, but they seem to look composed once I sit back next to them.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -434,6 +468,7 @@
 			<NodeID>40</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Why don’t we take a walk? It’ll be nice to get some fresh air and exercise.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -445,6 +480,7 @@
 			<NodeID>41</NodeID>
 			<Name>none</Name>
 			<Text>I silently follow Sawyer out the door.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -456,6 +492,7 @@
 			<NodeID>42</NodeID>
 			<Name>none</Name>
 			<Text>I don’t even know where we're going. I just follow Sawyer.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -467,6 +504,7 @@
 			<NodeID>43</NodeID>
 			<Name>none</Name>
 			<Text>As we walk, I try to sort through what’s on my mind.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -478,6 +516,7 @@
 			<NodeID>44</NodeID>
 			<Name>none</Name>
 			<Text>What use are prisms? Why do they exist?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -489,6 +528,7 @@
 			<NodeID>45</NodeID>
 			<Name>none</Name>
 			<Text>Don’t they just exist to cause pain?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -500,6 +540,7 @@
 			<NodeID>46</NodeID>
 			<Name>Sawyer</Name>
 			<Text>All of these prisms, how much of my life is my own? As people create more and more parallel lives, this life means less and less.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -511,6 +552,7 @@
 			<NodeID>47</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Do you understand what I’m saying?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>"Of course."</Text>
@@ -526,6 +568,7 @@
 			<NodeID>48</NodeID>
 			<Name>Sawyer</Name>
 			<Text>It’s depressing to think about.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -537,6 +580,7 @@
 			<NodeID>49</NodeID>
 			<Name>Sawyer</Name>
 			<Text>I- I’m sorry for bringing it up so randomly, with everything you’re going through.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -548,6 +592,7 @@
 			<NodeID>50</NodeID>
 			<Name>none</Name>
 			<Text>We stay quiet for a while.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -560,6 +605,7 @@
 			<NodeID>51</NodeID>
 			<Name>Sawyer</Name>
 			<Text>It’s like our place in the universe. We’re just a speck in the grand scheme of things, destined to meet a fiery fate...</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -571,6 +617,7 @@
 			<NodeID>52</NodeID>
 			<Name>Sawyer</Name>
 			<Text>There’s so many versions of me who do something else that my actions don’t mean anything anymore.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -582,6 +629,7 @@
 			<NodeID>53</NodeID>
 			<Name>none</Name>
 			<Text>I don’t respond.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -593,6 +641,7 @@
 			<NodeID>54</NodeID>
 			<Name>none</Name>
 			<Text>Sawyer and I eventually make our way to the bridge near the edge of town. I look down at the water hundreds of meters below us.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -604,6 +653,7 @@
 			<NodeID>55</NodeID>
 			<Name>none</Name>
 			<Text>It’s oddly beautiful.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -615,6 +665,7 @@
 			<NodeID>56</NodeID>
 			<Name>Sawyer</Name>
 			<Text>[main], I know this is tough for you...</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -626,6 +677,7 @@
 			<NodeID>57</NodeID>
 			<Name>Sawyer</Name>
 			<Text>But your mom was a great person, right?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -637,6 +689,7 @@
 			<NodeID>58</NodeID>
 			<Name>Sawyer</Name>
 			<Text>I’m shocked because the comment feels so out of the blue. But I think I know what Sawyer is getting at.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -648,6 +701,7 @@
 			<NodeID>59</NodeID>
 			<Name>You</Name>
 			<Text>You’re right. She was.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -659,6 +713,7 @@
 			<NodeID>61</NodeID>
 			<Name>none</Name>
 			<Text>I think back to everything my mom did for me.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -670,6 +725,7 @@
 			<NodeID>62</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Every time I came over to your house, your mom was always so kind...</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -681,6 +737,7 @@
 			<NodeID>63</NodeID>
 			<Name>Sawyer</Name>
 			<Text>and you guys really seemed to love each other. She really cared for you, you know?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -692,6 +749,7 @@
 			<NodeID>64</NodeID>
 			<Name>none</Name>
 			<Text>I think back to the small things- my mom taking me to school, cooking dinner...</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -703,6 +761,7 @@
 			<NodeID>65</NodeID>
 			<Name>none</Name>
 			<Text>I hear Sawyer sob.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -714,6 +773,7 @@
 			<NodeID>66</NodeID>
 			<Name>You</Name>
 			<Text>Sawyer? What’s going on?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -725,6 +785,7 @@
 			<NodeID>67</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Y-you wouldn’t understand. I don’t want to drag you into this...</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -736,6 +797,7 @@
 			<NodeID>68</NodeID>
 			<Name>You</Name>
 			<Text>Sawyer, you’ve always helped me out with everything. We’re here for each other, always.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -747,6 +809,7 @@
 			<NodeID>69</NodeID>
 			<Name>Sawyer</Name>
 			<Text>M-my parents...</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -758,6 +821,7 @@
 			<NodeID>70</NodeID>
 			<Name>You</Name>
 			<Text>What about them? They’re always really nice when I visit...</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -769,6 +833,7 @@
 			<NodeID>71</NodeID>
 			<Name>Sawyer</Name>
 			<Text>I know, but... it’s just, they always compare me to my paraselves...they say I’m worthless...</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -780,6 +845,7 @@
 			<NodeID>72</NodeID>
 			<Name>none</Name>
 			<Text>Sawyer continues sobbing.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -791,6 +857,7 @@
 			<NodeID>73</NodeID>
 			<Name>You</Name>
 			<Text>It’s okay... it’s not true!</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -802,6 +869,7 @@
 			<NodeID>74</NodeID>
 			<Name>Sawyer</Name>
 			<Text>But it is! I haven’t ever done anything memorable... and whatever I do pales in comparison to all my paraselves!</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -813,6 +881,7 @@
 			<NodeID>75</NodeID>
 			<Name>none</Name>
 			<Text>I don’t know what to say.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -824,6 +893,7 @@
 			<NodeID>76</NodeID>
 			<Name>none</Name>
 			<Text>Sawyer has always been the closest person to me... but I never knew what was happening in their private life.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -835,6 +905,7 @@
 			<NodeID>77</NodeID>
 			<Name>You</Name>
 			<Text>Sawyer, it’s okay. Think about everything we’ve done together. Nobody can replicate what we’ve been through.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -846,6 +917,7 @@
 			<NodeID>78</NodeID>
 			<Name>Sawyer</Name>
 			<Text>You don’t understand... in every universe, I just drag you down.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -857,6 +929,7 @@
 			<NodeID>79</NodeID>
 			<Name>Sawyer</Name>
 			<Text>[main], you’re so smart... you have such a bright future. I’m just dead weight to you...</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -868,6 +941,7 @@
 			<NodeID>80</NodeID>
 			<Name>You</Name>
 			<Text>No, Sawyer, you mean everything to me!</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -879,6 +953,7 @@
 			<NodeID>81</NodeID>
 			<Name>Sawyer</Name>
 			<Text>I’ve seen it too many times! When we part ways, you excel.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -890,6 +965,7 @@
 			<NodeID>82</NodeID>
 			<Name>Sawyer</Name>
 			<Text>And I couldn’t even pick up your call when you needed it most...</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -901,6 +977,7 @@
 			<NodeID>83</NodeID>
 			<Name>Sawyer</Name>
 			<Text>This place is so peaceful... I must’ve been here hundreds of times, looking down at the flowing river.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -912,6 +989,7 @@
 			<NodeID>84</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Do you know why I brought us here?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -923,6 +1001,7 @@
 			<NodeID>85</NodeID>
 			<Name>none</Name>
 			<Text>A cool breeze passes through, as if swimming through the sky.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>"Why?"</Text>
@@ -938,6 +1017,7 @@
 			<NodeID>86</NodeID>
 			<Name>You</Name>
 			<Text>I couldn’t bear losing you too.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -949,6 +1029,7 @@
 			<NodeID>87</NodeID>
 			<Name>none</Name>
 			<Text>Tears streak down Sawyer’s face.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -960,6 +1041,7 @@
 			<NodeID>88</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Don’t worry, [main]. I’m sure there’s a world where we live happily ever after. I just haven’t found it yet.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>"Why can't it be this world?"</Text>
@@ -979,6 +1061,7 @@
 			<NodeID>89</NodeID>
 			<Name>Sawyer</Name>
 			<Text>It’ll be so much easier for you now, [main]...</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -990,6 +1073,7 @@
 			<NodeID>90</NodeID>
 			<Name>none</Name>
 			<Text>I reach out to physically restrain Sawyer, only to hear a gasp.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1001,6 +1085,7 @@
 			<NodeID>91</NodeID>
 			<Name>Sawyer</Name>
 			<Text>[main]...</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1012,6 +1097,7 @@
 			<NodeID>92</NodeID>
 			<Name>none</Name>
 			<Text>I pull Sawyer closer.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1023,6 +1109,7 @@
 			<NodeID>93</NodeID>
 			<Name>Sawyer</Name>
 			<Text>That’s... that’s the bracelet I gave you the day we met...</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1034,6 +1121,7 @@
 			<NodeID>94</NodeID>
 			<Name>none</Name>
 			<Text>Sawyer begins sobbing again, this time in relief. I pull them in closer.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1045,6 +1133,7 @@
 			<NodeID>95</NodeID>
 			<Name>You</Name>
 			<Text>It’s okay. We’ve got each other.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1056,6 +1145,7 @@
 			<NodeID>96</NodeID>
 			<Name>none</Name>
 			<Text>We walk home, hand in hand.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
