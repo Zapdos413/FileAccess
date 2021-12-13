@@ -1,1 +1,17 @@
-
+<?xml version="1.0" encoding="utf-8" ?>
+<Dialogue xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="https://www.w3.org/2001/XMLSchema">
+	<Nodes>
+    		<DialogueNode>
+			<NodeID>0</NodeID>
+			<Name>none</Name>
+			<Text>Before I can enter the bathroom, someone shoves me from behind.</Text>
+			<Background>LockerRoom</Background>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>1</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+   </Nodes>
+</Dialogue>
