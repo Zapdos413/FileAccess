@@ -495,6 +495,7 @@
 			<Name>none</Name>
 			<Text>I don’t even know where we're going. I just follow Sawyer.</Text>
 			<Sprite1>SawNeu</Sprite1>
+			<Background>ParkWalk</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -644,6 +645,7 @@
 			<Name>none</Name>
 			<Text>Sawyer and I eventually make our way to the bridge near the edge of town. I look down at the water hundreds of meters below us.</Text>
 			<Sprite1>SawNeu</Sprite1>
+			<Background>Bridge</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
