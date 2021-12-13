@@ -547,7 +547,7 @@
 		<DialogueNode>
 			<NodeID>50</NodeID>
 			<Name>none</Name>
-			<Text>We stay quiet for the rest of the walk.</Text>
+			<Text>We stay quiet for a while.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -667,79 +667,355 @@
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>62</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Every time I came over to your house, your mom was always so kind...</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>63</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>63</NodeID>
+			<Name>Sawyer</Name>
+			<Text>and you guys really seemed to love each other. She really cared for you, you know?</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>64</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>64</NodeID>
+			<Name>none</Name>
+			<Text>I think back to the small things- my mom taking me to school, cooking dinner...</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>65</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>65</NodeID>
+			<Name>none</Name>
+			<Text>I hear Sawyer sob.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>66</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>66</NodeID>
+			<Name>You</Name>
+			<Text>Sawyer? What’s going on?</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>67</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>67</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Y-you wouldn’t understand. I don’t want to drag you into this...</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>68</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>68</NodeID>
+			<Name>You</Name>
+			<Text>Sawyer, you’ve always helped me out with everything. We’re here for each other, always.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>69</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>69</NodeID>
+			<Name>Sawyer</Name>
+			<Text>M-my parents...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>70</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>70</NodeID>
+			<Name>You</Name>
+			<Text>What about them? They’re always really nice when I visit...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>71</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>71</NodeID>
+			<Name>Sawyer</Name>
+			<Text>I know, but... it’s just, they always compare me to my paraselves...they say I’m worthless...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>72</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>72</NodeID>
+			<Name>none</Name>
+			<Text>Sawyer continues sobbing.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>73</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>73</NodeID>
+			<Name>You</Name>
+			<Text>It’s okay... it’s not true!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>74</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>74</NodeID>
+			<Name>Sawyer</Name>
+			<Text>But it is! I haven’t ever done anything memorable... and whatever I do pales in comparison to all my paraselves!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>75</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>75</NodeID>
+			<Name>none</Name>
+			<Text>I don’t know what to say.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>76</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>76</NodeID>
+			<Name>none</Name>
+			<Text>Sawyer has always been the closest person to me... but I never knew what was happening in their private life.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>77</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>77</NodeID>
+			<Name>You</Name>
+			<Text>Sawyer, it’s okay. Think about everything we’ve done together. Nobody can replicate what we’ve been through.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>78</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>78</NodeID>
+			<Name>Sawyer</Name>
+			<Text>You don’t understand... in every universe, I just drag you down.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>79</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>79</NodeID>
+			<Name>Sawyer</Name>
+			<Text>[main], you’re so smart... you have such a bright future. I’m just dead weight to you...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>80</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>80</NodeID>
+			<Name>You</Name>
+			<Text>No, Sawyer, you mean everything to me!</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>81</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>81</NodeID>
+			<Name>Sawyer</Name>
+			<Text>I’ve seen it too many times! When we part ways, you excel.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>82</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>82</NodeID>
+			<Name>Sawyer</Name>
+			<Text>And I couldn’t even pick up your call when you needed it most...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>83</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>83</NodeID>
+			<Name>Sawyer</Name>
+			<Text>This place is so peaceful... I must’ve been here hundreds of times, looking down at the flowing river.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>84</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>84</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Do you know why I brought us here?</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>85</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>85</NodeID>
+			<Name>none</Name>
+			<Text>A cool breeze passes through, as if swimming through the sky.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>"Why?"</Text>
+					<DestinationNodeID>87</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>"Don't do this, Sawyer!"</Text>
+					<DestinationNodeID>86</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>86</NodeID>
+			<Name>You</Name>
+			<Text>I couldn’t bear losing you too.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>87</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>87</NodeID>
+			<Name>none</Name>
+			<Text>Tears streak down Sawyer’s face.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>88</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>88</NodeID>
+			<Name>Sawyer</Name>
+			<Text>Don’t worry, [main]. I’m sure there’s a world where we live happily ever after. I just haven’t found it yet.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>"Why can't it be this world?"</Text>
+					<DestinationNodeID>89</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>"I need you."</Text>
+					<DestinationNodeID>89</DestinationNodeID>
+				</DialogueOption>
+				<DialogueOption>
+					<Text>"Please..."</Text>
+					<DestinationNodeID>89</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>89</NodeID>
+			<Name>Sawyer</Name>
+			<Text>It’ll be so much easier for you now, [main]...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>90</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>90</NodeID>
+			<Name>none</Name>
+			<Text>I reach out to physically restrain Sawyer, only to hear a gasp.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>91</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>91</NodeID>
+			<Name>Sawyer</Name>
+			<Text>[main]...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>92</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>92</NodeID>
+			<Name>none</Name>
+			<Text>I pull Sawyer closer.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>93</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
