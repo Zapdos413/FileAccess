@@ -548,6 +548,7 @@
 			<NodeID>46</NodeID>
 			<Name>none</Name>
 			<Text>Nothing takes my mind off of the condition of my mom. If there’s any way for me to make sure my mom lives, I’d do it in a heartbeat.</Text>
+			<Background>Bedroom</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
