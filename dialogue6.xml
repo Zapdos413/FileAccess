@@ -52,7 +52,7 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>5</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
