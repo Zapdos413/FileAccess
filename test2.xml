@@ -8,6 +8,8 @@
 			<Text>Have a good day!</Text>
 			<Background>SchoolFront</Background>
 			<Sprite1>XXMomNeu</Sprite1>
+			<Sprite2>none</Sprite2>
+			<Sprite3>none</Sprite3>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
