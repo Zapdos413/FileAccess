@@ -702,7 +702,7 @@
 		</DialogueNode>
 		<DialogueNode>
 			<NodeID>58</NodeID>
-			<Name>Sawyer</Name>
+			<Name>none</Name>
 			<Text>I’m shocked because the comment feels so out of the blue. But I think I know what Sawyer is getting at.</Text>
 			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
