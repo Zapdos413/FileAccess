@@ -1040,7 +1040,6 @@
 			<NodeID>85</NodeID>
 			<Name>none</Name>
 			<Text>My mom storms out of the office and I follow her.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Background>SchoolFront</Background>
 			<Options>
 				<DialogueOption>
@@ -1056,7 +1055,6 @@
 			<NodeID>86</NodeID>
 			<Name>none</Name>
 			<Text>My mom storms out of the office and I follow her.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Background>SchoolFront</Background>
 			<Options>
 				<DialogueOption>
@@ -1071,7 +1069,6 @@
 			<NodeID>87</NodeID>
 			<Name>none</Name>
 			<Text>My mom storms out of the office and I follow her.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Background>SchoolFront</Background>
 			<Options>
 				<DialogueOption>
@@ -1085,7 +1082,6 @@
 			<NodeID>88</NodeID>
 			<Name>none</Name>
 			<Text>I avoid my mom’s gaze as we walk towards the car.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1097,7 +1093,6 @@
 			<NodeID>89</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>That went poorly.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1109,7 +1104,6 @@
 			<NodeID>90</NodeID>
 			<Name>You</Name>
 			<Text>You could say that.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1121,7 +1115,6 @@
 			<NodeID>91</NodeID>
 			<Name>none</Name>
 			<Text>It feels like the world is ending.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1133,7 +1126,6 @@
 			<NodeID>92</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>I hope I can change something to make my side go better.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1145,7 +1137,6 @@
 			<NodeID>93</NodeID>
 			<Name>none</Name>
 			<Text>I put away my prism. It’s hard to care about my paraself’s world right now.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1158,7 +1149,6 @@
 			<NodeID>94</NodeID>
 			<Name>none</Name>
 			<Text>I avoid my mom’s gaze as we walk towards the car, messaging my paraself on the way.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1170,7 +1160,6 @@
 			<NodeID>95</NodeID>
 			<Name>You</Name>
 			<Text>It didn’t go well. Mr. Thomas wouldn’t bring in Kris.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1182,7 +1171,6 @@
 			<NodeID>96</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Good to know.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1194,7 +1182,6 @@
 			<NodeID>97</NodeID>
 			<Name>You</Name>
 			<Text>What do you mean, “Good to know”? Didn’t you go already?</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1206,7 +1193,6 @@
 			<NodeID>98</NodeID>
 			<Name>none</Name>
 			<Text>It only now occurred to me that my paraself could have tricked me. I’m so stupid.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1218,7 +1204,6 @@
 			<NodeID>99</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Well, see you later.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1232,7 +1217,6 @@
 			<NodeID>100</NodeID>
 			<Name>none</Name>
 			<Text>My paraself messages me as I walk to the car.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1244,7 +1228,6 @@
 			<NodeID>101</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Sooo, how did you do?</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>"Fine."</Text>
@@ -1260,7 +1243,6 @@
 			<NodeID>102</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>That doesn’t sound like the response you’d give if things went well.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1272,7 +1254,6 @@
 			<NodeID>103</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Sounds like you failed.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1284,7 +1265,6 @@
 			<NodeID>104</NodeID>
 			<Name>none</Name>
 			<Text>I’m afraid to find out how my paraself did. They don’t keep me waiting though.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1296,7 +1276,6 @@
 			<NodeID>105</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>If only you had just asked nicely, your conversation could have gone as well as mine.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1308,7 +1287,6 @@
 			<NodeID>106</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>I'll give you a hint: Jim Beaux is a legend.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1320,7 +1298,6 @@
 			<NodeID>107</NodeID>
 			<Name>none</Name>
 			<Text>I want to cry.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1333,7 +1310,6 @@
 			<NodeID>108</NodeID>
 			<Name>none</Name>
 			<Text>My mom only starts venting once we get in the car.</Text>
-			<Sprite1>MomNeu</Sprite1>
 			<Background>Car</Background>
 			<Options>
 				<DialogueOption>
