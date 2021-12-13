@@ -1171,7 +1171,6 @@
 			<NodeID>96</NodeID>
 			<Name>none</Name>
 			<Text>We walk home, hand in hand.</Text>
-			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
