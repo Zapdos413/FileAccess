@@ -39,6 +39,7 @@
 			<NodeID>3</NodeID>
 			<Name>none</Name>
 			<Text>Mom looks like she didn't sleep at all last night. I hope she's okay.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -50,6 +51,7 @@
 			<NodeID>4</NodeID>
 			<Name>Mom</Name>
 			<Text>Here's lunch. Breakfast is on the stove.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -61,6 +63,7 @@
 			<NodeID>5</NodeID>
 			<Name>none</Name>
 			<Text>I quickly eat my breakfast and get in the car.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -73,6 +76,7 @@
 			<NodeID>6</NodeID>
 			<Name>Mom</Name>
 			<Text>This afternoon, right?</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -84,6 +88,7 @@
 			<NodeID>7</NodeID>
 			<Name>You</Name>
 			<Text>Yeah. The principal's office is to the right of the main entrance. I'll be waiting around there.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -95,6 +100,7 @@
 			<NodeID>8</NodeID>
 			<Name>none</Name>
 			<Text>We arrive at school.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -107,6 +113,7 @@
 			<NodeID>9</NodeID>
 			<Name>You</Name>
 			<Text>Bye Mom. Thanks so much.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -118,6 +125,7 @@
 			<NodeID>10</NodeID>
 			<Name>Mom</Name>
 			<Text>I'll see you later today, kiddo.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -129,6 +137,7 @@
 			<NodeID>11</NodeID>
 			<Name>none</Name>
 			<Text>With a weak smile, she drives away.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -151,6 +160,7 @@
 			<NodeID>13</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Sawyer messaged me about what happened yesterday. Are you alright?</Text>
+			<Sprite1>XXLyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -162,6 +172,7 @@
 			<NodeID>14</NodeID>
 			<Name>You</Name>
 			<Text>I guess...</Text>
+			<Sprite1>LyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -173,6 +184,7 @@
 			<NodeID>15</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Let me buy you a cookie. It's the least I can do.</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -187,6 +199,7 @@
 			<NodeID>16</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Let me buy you a cookie. It's the least I can do.</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -200,6 +213,7 @@
 			<NodeID>17</NodeID>
 			<Name>You</Name>
 			<Text>Thanks.</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -211,6 +225,7 @@
 			<NodeID>18</NodeID>
 			<Name>none</Name>
 			<Text>We head towards the cafeteria. I look around for Kris, but don’t catch a glimpse of her.</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -222,6 +237,7 @@
 			<NodeID>19</NodeID>
 			<Name>Lyanna</Name>
 			<Text>I’ll try my best to stick with you today. Kris can’t attack you if we’re together.</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -233,6 +249,7 @@
 			<NodeID>20</NodeID>
 			<Name>You</Name>
 			<Text>Lyanna, why do you believe me?</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -244,6 +261,7 @@
 			<NodeID>21</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Why would I not? It’s not like Kris is some sort of goddess or something.</Text>
+			<Sprite1>XXLyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -255,6 +273,7 @@
 			<NodeID>22</NodeID>
 			<Name>none</Name>
 			<Text>I smile. What did I do to deserve a friend like this?</Text>
+			<Sprite1>LyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -268,6 +287,7 @@
 			<NodeID>23</NodeID>
 			<Name>You</Name>
 			<Text>Hold on, my paraself is messaging me.</Text>
+			<Sprite1>LyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -279,6 +299,7 @@
 			<NodeID>24</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Oh, are you getting along with them?</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -290,6 +311,7 @@
 			<NodeID>25</NodeID>
 			<Name>You</Name>
 			<Text>I, uhh, yeah, you could say that.</Text>
+			<Sprite1>LyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -301,6 +323,7 @@
 			<NodeID>26</NodeID>
 			<Name>none</Name>
 			<Text>I’d rather not admit to Lyanna that I’m manipulating my paraself.</Text>
+			<Sprite1>LyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -312,6 +335,7 @@
 			<NodeID>27</NodeID>
 			<Name>Lyanna</Name>
 			<Text>That’s great, [main]! It took me a while to accept some parts of myself.</Text>
+			<Sprite1>XXLyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -323,6 +347,7 @@
 			<NodeID>28</NodeID>
 			<Name>none</Name>
 			<Text>I look at the message, hiding my shame.</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -334,6 +359,7 @@
 			<NodeID>29</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Have you started your conversation?</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -345,6 +371,7 @@
 			<NodeID>30</NodeID>
 			<Name>You</Name>
 			<Text>Not yet.</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -356,6 +383,7 @@
 			<NodeID>31</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>If you don’t mind me asking, could you leave the prism on so I can hear the conversation?</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>"I can't do that."</Text>
@@ -371,6 +399,7 @@
 			<NodeID>32</NodeID>
 			<Name>none</Name>
 			<Text>This wasn’t supposed to happen.</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -382,6 +411,7 @@
 			<NodeID>33</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>...</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -393,6 +423,7 @@
 			<NodeID>34</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>I respect the hustle, but it was a stretch to think that you could trick yourself.</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>"I'm sorry."</Text>
@@ -412,6 +443,7 @@
 			<NodeID>35</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Don't lie to me.</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -423,6 +455,7 @@
 			<NodeID>36</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>I would be mad at you, but I would have done the same thing. How about we both go at the same time? I’m not going to help you with anything though.</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -434,6 +467,7 @@
 			<NodeID>37</NodeID>
 			<Name>You</Name>
 			<Text>Fair is fair.</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -445,6 +479,7 @@
 			<NodeID>38</NodeID>
 			<Name>none</Name>
 			<Text>And thus, my plan to trick myself was ruined.</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -664,6 +699,7 @@
 			<NodeID>57</NodeID>
 			<Name>Mom</Name>
 			<Text>I called ahead so they know I’ll be here. Are you ready?</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -675,6 +711,7 @@
 			<NodeID>58</NodeID>
 			<Name>You</Name>
 			<Text>Yeah, let's get this over with.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -697,6 +734,7 @@
 			<NodeID>60</NodeID>
 			<Name>Principal</Name>
 			<Text>Good afternoon, ma’am. You’re [main]’s mother, I presume?</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -708,6 +746,7 @@
 			<NodeID>61</NodeID>
 			<Name>Mom</Name>
 			<Text>That's right.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -719,6 +758,7 @@
 			<NodeID>62</NodeID>
 			<Name>Principal</Name>
 			<Text>What would you like to discuss?</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -730,6 +770,7 @@
 			<NodeID>63</NodeID>
 			<Name>Mom</Name>
 			<Text>How could you let my child get attacked in the locker room and do nothing about it?</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -741,6 +782,7 @@
 			<NodeID>64</NodeID>
 			<Name>Principal</Name>
 			<Text>We have no idea what happened in the locker room yesterday. While we have heard your complaints, we have no reason to believe that Kris has done anything wrong.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -752,6 +794,7 @@
 			<NodeID>65</NodeID>
 			<Name>Mom</Name>
 			<Text>Are you calling my child a liar?</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -763,6 +806,7 @@
 			<NodeID>66</NodeID>
 			<Name>Principal</Name>
 			<Text>We aren’t calling anybody anything.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -774,6 +818,7 @@
 			<NodeID>67</NodeID>
 			<Name>Principal</Name>
 			<Text>Yesterday, we had a chat with Kris, who both claimed that she didn’t attack your child and that she and your child had a previously good relationship.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -785,6 +830,7 @@
 			<NodeID>68</NodeID>
 			<Name>Principal</Name>
 			<Text>She also said that she lent your child her homework to check answers when [main] tried to pass off Kris’s homework as their own.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -796,6 +842,7 @@
 			<NodeID>69</NodeID>
 			<Name>Mom</Name>
 			<Text>And you believe Kris’s story?</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -807,6 +854,7 @@
 			<NodeID>70</NodeID>
 			<Name>Principal</Name>
 			<Text>Ma’am, I understand your frustration, but there wasn’t anyone else in the locker room at the time. There’s nothing we can do about it anymore.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -818,6 +866,7 @@
 			<NodeID>71</NodeID>
 			<Name>Mom</Name>
 			<Text>Have you checked the homework she turned in?</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -829,6 +878,7 @@
 			<NodeID>72</NodeID>
 			<Name>Principal</Name>
 			<Text>Yes, we have. It has her name on it, and everything is in her handwriting.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -840,6 +890,7 @@
 			<NodeID>73</NodeID>
 			<Name>none</Name>
 			<Text>My mom takes a moment to think.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -851,6 +902,7 @@
 			<NodeID>74</NodeID>
 			<Name>Mom</Name>
 			<Text>My child gets mugged and there's nothing you can do about it? Some school.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -862,6 +914,7 @@
 			<NodeID>75</NodeID>
 			<Name>Principal</Name>
 			<Text>Ma’am, what would you like us to do?</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -873,6 +926,7 @@
 			<NodeID>76</NodeID>
 			<Name>Mom</Name>
 			<Text>Believe my child and punish the assailant.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -884,6 +938,7 @@
 			<NodeID>77</NodeID>
 			<Name>Principal</Name>
 			<Text>I’m afraid we can’t do that ma’am.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -898,6 +953,7 @@
 			<NodeID>78</NodeID>
 			<Name>Principal</Name>
 			<Text>I’m afraid we can’t do that ma’am.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -909,6 +965,7 @@
 			<NodeID>79</NodeID>
 			<Name>You</Name>
 			<Text>Can we bring in Kris?</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -920,6 +977,7 @@
 			<NodeID>80</NodeID>
 			<Name>Principal</Name>
 			<Text>Kris is a busy girl. She’s in soccer practice right now, I believe.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -931,6 +989,7 @@
 			<NodeID>81</NodeID>
 			<Name>Mom</Name>
 			<Text>Are you telling me that you can’t bring in a thief because of soccer practice?</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -942,6 +1001,7 @@
 			<NodeID>82</NodeID>
 			<Name>Principal</Name>
 			<Text>Out of respect for her time, we cannot.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -955,6 +1015,7 @@
 			<NodeID>83</NodeID>
 			<Name>none</Name>
 			<Text>In all of my 16 years, I’ve never seen my mom this mad.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -966,6 +1027,7 @@
 			<NodeID>84</NodeID>
 			<Name>Mom</Name>
 			<Text>Well, thank you for your “help” today.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -978,6 +1040,7 @@
 			<NodeID>85</NodeID>
 			<Name>none</Name>
 			<Text>My mom storms out of the office and I follow her.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -992,6 +1055,7 @@
 			<NodeID>86</NodeID>
 			<Name>none</Name>
 			<Text>My mom storms out of the office and I follow her.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1005,6 +1069,7 @@
 			<NodeID>87</NodeID>
 			<Name>none</Name>
 			<Text>My mom storms out of the office and I follow her.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1017,6 +1082,7 @@
 			<NodeID>88</NodeID>
 			<Name>none</Name>
 			<Text>I avoid my mom’s gaze as we walk towards the car.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1028,6 +1094,7 @@
 			<NodeID>89</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>That went poorly.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1039,6 +1106,7 @@
 			<NodeID>90</NodeID>
 			<Name>You</Name>
 			<Text>You could say that.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1049,7 +1117,8 @@
 		<DialogueNode>
 			<NodeID>91</NodeID>
 			<Name>none</Name>
-			<Text>It feels like the end of the world.</Text>
+			<Text>It feels like the world is ending.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1061,6 +1130,7 @@
 			<NodeID>92</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>I hope I can change something to make my side go better.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1072,6 +1142,7 @@
 			<NodeID>93</NodeID>
 			<Name>none</Name>
 			<Text>I put away my prism. It’s hard to care about my paraself’s world right now.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1084,6 +1155,7 @@
 			<NodeID>94</NodeID>
 			<Name>none</Name>
 			<Text>I avoid my mom’s gaze as we walk towards the car, messaging my paraself on the way.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1095,6 +1167,7 @@
 			<NodeID>95</NodeID>
 			<Name>You</Name>
 			<Text>It didn’t go well. Mr. Thomas wouldn’t bring in Kris.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1106,6 +1179,7 @@
 			<NodeID>96</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Good to know.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1117,6 +1191,7 @@
 			<NodeID>97</NodeID>
 			<Name>You</Name>
 			<Text>What do you mean, “Good to know”? Didn’t you go already?</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1128,6 +1203,7 @@
 			<NodeID>98</NodeID>
 			<Name>none</Name>
 			<Text>It only now occurred to me that my paraself could have tricked me. I’m so stupid.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1139,6 +1215,7 @@
 			<NodeID>99</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Well, see you later.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1152,6 +1229,7 @@
 			<NodeID>100</NodeID>
 			<Name>none</Name>
 			<Text>My paraself messages me as I walk to the car.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1163,6 +1241,7 @@
 			<NodeID>101</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Sooo, how did you do?</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>"Fine."</Text>
@@ -1178,6 +1257,7 @@
 			<NodeID>102</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>That doesn’t sound like the response you’d give if things went well.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1189,6 +1269,7 @@
 			<NodeID>103</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Sounds like you failed.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1200,6 +1281,7 @@
 			<NodeID>104</NodeID>
 			<Name>none</Name>
 			<Text>I’m afraid to find out how my paraself did. They don’t keep me waiting though.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1211,6 +1293,7 @@
 			<NodeID>105</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>If only you had just asked nicely, your conversation could have gone as well as mine.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1221,7 +1304,8 @@
 		<DialogueNode>
 			<NodeID>106</NodeID>
 			<Name>Paraself 2</Name>
-			<Text>Jim Beaux is a legend.</Text>
+			<Text>I'll give you a hint: Jim Beaux is a legend.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1233,6 +1317,7 @@
 			<NodeID>107</NodeID>
 			<Name>none</Name>
 			<Text>I want to cry.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1245,6 +1330,7 @@
 			<NodeID>108</NodeID>
 			<Name>none</Name>
 			<Text>My mom only starts venting once we get in the car.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1256,6 +1342,7 @@
 			<NodeID>109</NodeID>
 			<Name>Mom</Name>
 			<Text>Who does that principal think Kris is? From the way he defends her, she must be the president.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1267,6 +1354,7 @@
 			<NodeID>110</NodeID>
 			<Name>You</Name>
 			<Text>She’s the school president.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1278,6 +1366,7 @@
 			<NodeID>111</NodeID>
 			<Name>Mom</Name>
 			<Text>You know what I meant!</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1289,6 +1378,7 @@
 			<NodeID>112</NodeID>
 			<Name>none</Name>
 			<Text>My mom drives faster.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1300,6 +1390,7 @@
 			<NodeID>113</NodeID>
 			<Name>Mom</Name>
 			<Text>That principal is senseless, right?</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>"Yeah."</Text>
@@ -1315,6 +1406,7 @@
 			<NodeID>114</NodeID>
 			<Name>Mom</Name>
 			<Text>I can’t believe this school. Maybe I’ll look for other schools because this one can’t do its job.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1326,6 +1418,7 @@
 			<NodeID>115</NodeID>
 			<Name>none</Name>
 			<Text>She drives even faster. She must be well over the speed limit by now.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1337,6 +1430,7 @@
 			<NodeID>116</NodeID>
 			<Name>Mom</Name>
 			<Text>and not bringing someone in because of SOCCER PRACTICE? What a joke!</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
