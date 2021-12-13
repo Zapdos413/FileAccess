@@ -5,6 +5,7 @@
 			<NodeID>0</NodeID>
 			<Name>none</Name>
 			<Text>I don’t even know how things ended this way.</Text>
+			<Background>Graveyard</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
