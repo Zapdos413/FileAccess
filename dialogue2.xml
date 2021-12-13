@@ -1220,7 +1220,7 @@
 		<DialogueNode>
 			<NodeID>102</NodeID>
 			<Name>Sawyer</Name>
-			<Text>That sounds like a plan. Why don’t we head to the math club right now, honey?</Text>
+			<Text>That sounds like a plan. Why don’t we head to the math club right now, darling?</Text>
 			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
