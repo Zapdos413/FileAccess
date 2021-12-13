@@ -5,7 +5,7 @@
 			<NodeID>0</NodeID>
 			<Name>none</Name>
 			<Text>I wake up to the sound of the doorbell and check my clock. It’s already past noon?</Text>
-			<Sprite1>none</Sprite1>
+			<Background>Bedroom</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -28,6 +28,7 @@
 			<NodeID>2</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Are you there, [main]? Sorry I missed your call earlier.</Text>
+			<Background>Entryway</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
