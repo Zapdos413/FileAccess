@@ -7,9 +7,7 @@
 			<Name>Mom</Name>
 			<Text>Have a good day!</Text>
 			<Background>SchoolFront</Background>
-			<Sprite1>XXLyaHap</Sprite1>
-			<Sprite2>LyaHap</Sprite2>
-			<Sprite3>LyaHap</Sprite3>			
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -21,9 +19,7 @@
 			<NodeID>1</NodeID>
 			<Name>You</Name>
 			<Text>You too mom.</Text>
-			<Sprite1>LyaHap</Sprite1>
-			<Sprite2>XXLyaHap</Sprite2>
-			<Sprite3>LyaHap</Sprite3>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -35,9 +31,6 @@
 			<NodeID>2</NodeID>
 			<Name>none</Name>
 			<Text>Another day, another six periods of school. Finally, a day without any tests or projects.</Text>
-			<Sprite1>LyaHap</Sprite1>
-			<Sprite2>LyaHap</Sprite2>
-			<Sprite3>XXLyaHap</Sprite3>
 			<Options>
 				<DialogueOption>
 					<Text>continue</Text>
@@ -48,6 +41,7 @@
 		<DialogueNode>
 			<NodeID>3</NodeID>
 			<Name>Lyanna</Name>
+			<Sprite1>XXLyaHap</Sprite1>			
 			<Text>I'm headed to the cafeteria so I can get a cookie before class. Wanna join me?</Text>
 			<Options>
 				<DialogueOption>
@@ -61,8 +55,6 @@
 			<Name>Lyanna</Name>
 			<Text>Good morning [main]!</Text>
 			<Sprite1>XXLyaHap</Sprite1>
-			<Sprite2>LyaHap</Sprite2>
-			<Sprite3>LyaHap</Sprite3>
 			<Options>
 				<DialogueOption>
 					<Text>"Good morning, Lyanna!"</Text>
@@ -78,6 +70,7 @@
 			<NodeID>5</NodeID>
 			<Name>none</Name>
 			<Text>Lyanna pulls out a prism on her way towards the school cafeteria.</Text>
+			<Sprite1>LyaHap</Sprite1>			
 			<Options>
 				<DialogueOption>
 					<Text>Exit</Text>
@@ -89,6 +82,7 @@
 			<NodeID>6</NodeID>
 			<Name>Lyanna</Name>
 			<Text>*giggles* Probably in like all of them. I was waiting for you to show up, you know.</Text>
+			<Sprite1>XXLyaHap</Sprite1>			
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -100,6 +94,7 @@
 			<NodeID>7</NodeID>
 			<Name>none</Name>
 			<Text>From around the corner, my friend Lyanna walks up to greet me.</Text>
+			<Sprite1>LyaHap</Sprite1>			
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -111,6 +106,7 @@
 			<NodeID>8</NodeID>
 			<Name>none</Name>
 			<Text>Ever since Chiang invented the prism, people can’t seem to get enough of messaging their paraselves.</Text>
+			<Sprite1>LyaHap</Sprite1>			
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -122,6 +118,7 @@
 			<NodeID>9</NodeID>
 			<Name>none</Name>
 			<Text>Glancing around, you see at least seven other students with prisms.</Text>
+			<Sprite1>LyaHap</Sprite1>			
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -133,6 +130,7 @@
 			<NodeID>10</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Wanna hear a joke?</Text>
+			<Sprite1>XXLyaHap</Sprite1>			
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -144,6 +142,7 @@
 			<NodeID>11</NodeID>
 			<Name>You</Name>
 			<Text>Sure.</Text>
+			<Sprite1>LyaHap</Sprite1>			
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -155,6 +154,7 @@
 			<NodeID>12</NodeID>
 			<Name>Lyanna</Name>
 			<Text>The school’s attempt to ban prisms.</Text>
+			<Sprite1>XXLyaClo</Sprite1>			
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -166,6 +166,7 @@
 			<NodeID>13</NodeID>
 			<Name>You</Name>
 			<Text>That happened?</Text>
+			<Sprite1>LyaClo</Sprite1>			
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -177,6 +178,7 @@
 			<NodeID>14</NodeID>
 			<Name>Lyanna</Name>
 			<Text>At the start of the semester, the school made a big deal about banning prism use during school hours.</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -188,6 +190,7 @@
 			<NodeID>15</NodeID>
 			<Name>Lyanna</Name>
 			<Text>They mentioned something about mental health impacts and whatever.</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -199,6 +202,7 @@
 			<NodeID>16</NodeID>
 			<Name>Lyanna</Name>
 			<Text>It's all a bunch of propaganda to try and prevent people from spreading test answers across parallel worlds, though.</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Fake a laugh</Text>
@@ -214,6 +218,7 @@
 			<NodeID>17</NodeID>
 			<Name>You</Name>
 			<Text>heh heh heh</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -225,6 +230,7 @@
 			<NodeID>18</NodeID>
 			<Name>Lyanna</Name>
 			<Text>*Laughs* Your fake laugh is terrible.</Text>
+			<Sprite1>XXLyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -236,6 +242,7 @@
 			<NodeID>19</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Aw, well you didn’t have to say it to my face like that.</Text>
+			<Sprite1>XXLyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -247,6 +254,7 @@
 			<NodeID>20</NodeID>
 			<Name>none</Name>
 			<Text>Out of the corner of my eye, I see Kris, the school president, frantically doing her homework while scarfing a bagel.</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -258,6 +266,7 @@
 			<NodeID>21</NodeID>
 			<Name>You</Name>
 			<Text>I didn’t know it was possible to eat that quickly, let alone do homework at the same time.</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -269,6 +278,7 @@
 			<NodeID>22</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Is Kris doing homework fifteen minutes before class starts? I guess I shouldn’t be one to judge.</Text>
+			<Sprite1>XXLyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -280,6 +290,7 @@
 			<NodeID>23</NodeID>
 			<Name>Lyanna</Name>
 			<Text>You’re pretty diligent about this sort of stuff, aren’t you, [main]. I’ve never even seen you do homework at school.</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>"I don’t have any extracurriculars, so I have a lot of time."</Text>
@@ -299,6 +310,7 @@
 			<NodeID>24</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Ohhhhhh, that makes sense.</Text>
+			<Sprite1>XXLyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -310,6 +322,7 @@
 			<NodeID>25</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Did you know Kris is in every extracurricular I’m in? She’s so cool!</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -321,6 +334,7 @@
 			<NodeID>26</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Of course it’s a compliment, dummy!</Text>
+			<Sprite1>XXLyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -332,6 +346,7 @@
 			<NodeID>27</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Where did that phrase even come from? Anyways…</Text>
+			<Sprite1>XXLyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -343,6 +358,7 @@
 			<NodeID>28</NodeID>
 			<Name>none</Name>
 			<Text>I chat with Lyanna for a little while longer.</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -354,6 +370,7 @@
 			<NodeID>29</NodeID>
 			<Name>You</Name>
 			<Text>Lyanna, class starts in a few minutes. I’d better use the restroom before class starts.</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -365,6 +382,7 @@
 			<NodeID>30</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Wait! Before you go...</Text>
+			<Sprite1>XXLyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -376,6 +394,7 @@
 			<NodeID>31</NodeID>
 			<Name>none</Name>
 			<Text>Lyanna takes a prism out of her bag.</Text>
+			<Sprite1>LyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -387,6 +406,7 @@
 			<NodeID>32</NodeID>
 			<Name>Lyanna</Name>
 			<Text>I got this from the place where I work as an appreciation gift. Since I already have a lot of them, I saved this one for you!</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Thanks!</Text>
@@ -402,6 +422,7 @@
 			<NodeID>33</NodeID>
 			<Name>none</Name>
 			<Text>I take the prism.</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -413,6 +434,7 @@
 			<NodeID>34</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Activate it!</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -424,6 +446,7 @@
 			<NodeID>35</NodeID>
 			<Name>You</Name>
 			<Text>Right now?</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -435,6 +458,7 @@
 			<NodeID>36</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Of course! Having a paraself is like having a friend. It’s best when you first split, since your experiences are exactly the same.</Text>
+			<Sprite1>XXLyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -446,6 +470,7 @@
 			<NodeID>37</NodeID>
 			<Name>none</Name>
 			<Text>I don’t want to disappoint Lyanna.</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -457,6 +482,7 @@
 			<NodeID>38</NodeID>
 			<Name>Lyanna</Name>
 			<Text>I know. That’s why I’m giving it to you. I want you to see the joy in talking to someone so relatable. Anyways, activate it!</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -468,6 +494,7 @@
 			<NodeID>39</NodeID>
 			<Name>You</Name>
 			<Text>Here goes.</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -479,6 +506,7 @@
 			<NodeID>40</NodeID>
 			<Name>none</Name>
 			<Text>I press the button, filling the cafeteria with a blue light. Oddly enough, the teachers don’t seem to pay any mind.</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -490,6 +518,7 @@
 			<NodeID>41</NodeID>
 			<Name>You</Name>
 			<Text>Are you sure there was a rule banning prisms?</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -501,6 +530,7 @@
 			<NodeID>42</NodeID>
 			<Name>You</Name>
 			<Text>Sure.</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -512,6 +542,7 @@
 			<NodeID>43</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>Lyanna here is giving me a hard time about the beginning of the year speech.</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Yes</Text>
@@ -523,6 +554,7 @@
 			<NodeID>44</NodeID>
 			<Name>You</Name>
 			<Text>Oh wow, our worlds are really similar.</Text>
+			<Sprite1>LyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -534,6 +566,7 @@
 			<NodeID>45</NodeID>
 			<Name>none</Name>
 			<Text>Lyanna smiles.</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -545,6 +578,7 @@
 			<NodeID>46</NodeID>
 			<Name>You</Name>
 			<Text>I’d play with this more, but it’s almost time for class and I have to go to the bathroom. Talk to you later, Lyanna.</Text>
+			<Sprite1>LyaClo</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
@@ -556,6 +590,7 @@
 			<NodeID>47</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Ok, see you after school!</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
