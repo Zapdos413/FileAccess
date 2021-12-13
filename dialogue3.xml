@@ -942,9 +942,9 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID>83</DestinationNodeID>
+					<DestinationNodeID>78</DestinationNodeID>
 					<!--run this little segment on 2b from 78 set. on the other paths, go straight to 83-->
-					<Function>TwoBSpecial</Function>
+					<!--<Function>TwoBSpecial</Function>-->
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
