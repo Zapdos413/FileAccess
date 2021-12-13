@@ -96,7 +96,6 @@
 			<NodeID>7</NodeID>
 			<Name>none</Name>
 			<Text>From around the corner, my friend Lyanna walks up to greet me.</Text>
-			<Sprite1>LyaHap</Sprite1>			
 			<Options>
 				<DialogueOption>
 					<Text>next</Text>
