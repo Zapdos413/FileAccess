@@ -17,6 +17,7 @@
 			<NodeID>1</NodeID>
 			<Name>You</Name>
 			<Text>Kris?! What was that for?</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -28,6 +29,7 @@
 			<NodeID>2</NodeID>
 			<Name>none</Name>
 			<Text>She frantically rummages through my bag, finally stopping to pull out my binder.</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -39,6 +41,7 @@
 			<NodeID>3</NodeID>
 			<Name>You</Name>
 			<Text>Hey! That's my stuff!</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -50,6 +53,7 @@
 			<NodeID>4</NodeID>
 			<Name>Kris</Name>
 			<Text>I'll be taking this.</Text>
+			<Sprite1>XXKriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -61,6 +65,7 @@
 			<NodeID>5</NodeID>
 			<Name>none</Name>
 			<Text>She pulls out my English homework, which is due in about five minutes.</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -72,6 +77,7 @@
 			<NodeID>6</NodeID>
 			<Name>Kris</Name>
 			<Text>Keep quiet and you won't get in trouble.</Text>
+			<Sprite1>XXKriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -83,6 +89,7 @@
 			<NodeID>7</NodeID>
 			<Name>none</Name>
 			<Text>It's not hard for me to imagine Kris pulling a couple strings to get me in trouble.</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>"Sounds like someone didn't do their homework in time."</Text>
@@ -102,6 +109,7 @@
 			<NodeID>8</NodeID>
 			<Name>Kris</Name>
 			<Text>I said quiet! One more snarky comment and consider your time at this school over.</Text>
+			<Sprite1>XXKriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -113,6 +121,7 @@
 			<NodeID>9</NodeID>
 			<Name>Kris</Name>
 			<Text>You wouldn't understand, so just do your part and stay out of it.</Text>
+			<Sprite1>XXKriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -124,6 +133,7 @@
 			<NodeID>10</NodeID>
 			<Name>none</Name>
 			<Text>Kris deftly slides out of the way, simultaneously sweeping my legs out from under me. In the moment, I can't help but appreciate her fast reactions.</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -134,7 +144,8 @@
 		<DialogueNode>
 			<NodeID>11</NodeID>
 			<Name>none</Name>
-			<Text>She tosses my bag on the ground, taking off with my English homework.</Text>
+			<Text>She tosses my bag on the ground and leaves, taking off with my English homework.</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -358,6 +369,7 @@
 			<NodeID>30</NodeID>
 			<Name>Kris</Name>
 			<Text>Huh? What do you mean?</Text>
+			<Sprite1>XXKriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -369,6 +381,7 @@
 			<NodeID>31</NodeID>
 			<Name>You</Name>
 			<Text>You know what I mean. You stole my homework just now. Give it back.</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -380,6 +393,7 @@
 			<NodeID>32</NodeID>
 			<Name>Bystander 1</Name>
 			<Text>Are you in your right mind? Why would Kris even want to steal your homework? She has the best grades at this school!</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -391,6 +405,7 @@
 			<NodeID>33</NodeID>
 			<Name>You</Name>
 			<Text>She-</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -402,6 +417,7 @@
 			<NodeID>34</NodeID>
 			<Name>Kris</Name>
 			<Text>Look, I know I lent you my homework because you asked for help, but you can't just demand that it's yours.</Text>
+			<Sprite1>XXKriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -413,6 +429,7 @@
 			<NodeID>35</NodeID>
 			<Name>Kris</Name>
 			<Text>I can't believe you were just going to turn in my homework and claim it as your own.</Text>
+			<Sprite1>XXKriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -424,6 +441,7 @@
 			<NodeID>36</NodeID>
 			<Name>You</Name>
 			<Text>I-</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -435,6 +453,7 @@
 			<NodeID>37</NodeID>
 			<Name>Teacher</Name>
 			<Text>What's going on here?</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -446,6 +465,7 @@
 			<NodeID>38</NodeID>
 			<Name>Kris</Name>
 			<Text>[main] here took my homework and tried to pass it off as their own.</Text>
+			<Sprite1>XXKriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -457,6 +477,7 @@
 			<NodeID>39</NodeID>
 			<Name>none</Name>
 			<Text>Everyone around Kris nods in agreement.</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -468,6 +489,7 @@
 			<NodeID>40</NodeID>
 			<Name>You</Name>
 			<Text>B-but-</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -479,6 +501,7 @@
 			<NodeID>41</NodeID>
 			<Name>Teacher</Name>
 			<Text>[main], please come with me to the disciplinary office.</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -490,6 +513,7 @@
 			<NodeID>42</NodeID>
 			<Name>none</Name>
 			<Text>I follow the teacher as Kris makes a face at me.</Text>
+			<Sprite1>KriNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -768,6 +792,7 @@
 			<NodeID>67</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Hi, [main]! I didn't see you at lunch today. Are you doing okay?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>I'm fine.</Text>
@@ -783,6 +808,7 @@
 			<NodeID>68</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Fine as in, "I walked around looking depressed all day"?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -794,6 +820,7 @@
 			<NodeID>69</NodeID>
 			<Name>You</Name>
 			<Text>Fine. Kris beat me up this morning.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -805,6 +832,7 @@
 			<NodeID>70</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Oh. That's...  I'm sorry to hear that.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -816,6 +844,7 @@
 			<NodeID>71</NodeID>
 			<Name>Friend 1</Name>
 			<Text>This sounds like a conversation that we shouldn't be a part of. Catch you later, Sawyer!</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -827,6 +856,7 @@
 			<NodeID>72</NodeID>
 			<Name>Friend 2</Name>
 			<Text>Bye Sawyer!</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -838,6 +868,7 @@
 			<NodeID>73</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Wait, Kris did that?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -849,6 +880,7 @@
 			<NodeID>74</NodeID>
 			<Name>You</Name>
 			<Text>Yeah.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -860,6 +892,7 @@
 			<NodeID>75</NodeID>
 			<Name>Sawyer</Name>
 			<Text>What happened after?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -871,6 +904,7 @@
 			<NodeID>76</NodeID>
 			<Name>none</Name>
 			<Text>I explain what happened.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -882,6 +916,7 @@
 			<NodeID>77</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Psssh. I should have expected something was up with Kris.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -893,6 +928,7 @@
 			<NodeID>78</NodeID>
 			<Name>Sawyer</Name>
 			<Text>I mean, how is it possible to take advanced level classes with every extracurricular activity the school offers and expect to finish the homework?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -904,6 +940,7 @@
 			<NodeID>79</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Oh, I believed you mentioned something about activating a prism? Don't you usually not use them?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -915,6 +952,7 @@
 			<NodeID>80</NodeID>
 			<Name>You</Name>
 			<Text>Lyanna gave it to me.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -926,6 +964,7 @@
 			<NodeID>81</NodeID>
 			<Name>Sawyer</Name>
 			<Text>You'll do anything she asks, won't you?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -937,6 +976,7 @@
 			<NodeID>82</NodeID>
 			<Name>You</Name>
 			<Text>Is someone jealous?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -947,7 +987,8 @@
 		<DialogueNode>
 			<NodeID>83</NodeID>
 			<Name>Sawyer</Name>
-			<Text>Never mind. I wanted to ask you what your paraself did.</Text>
+			<Text>Never mind. I wanted to ask you what your paraself did after their encounter with Kris.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -962,6 +1003,7 @@
 			<NodeID>84</NodeID>
 			<Name>You</Name>
 			<Text>Oh shoot, I forgot.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -974,6 +1016,7 @@
 			<NodeID>85</NodeID>
 			<Name>You</Name>
 			<Text>Oh shoot, I forgot.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -985,6 +1028,7 @@
 			<NodeID>86</NodeID>
 			<Name>You</Name>
 			<Text>Hey para-[main], how did going to the office go?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -996,6 +1040,7 @@
 			<NodeID>87</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>It went exactly as planned.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1007,6 +1052,7 @@
 			<NodeID>88</NodeID>
 			<Name>You</Name>
 			<Text>Really?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1018,6 +1064,7 @@
 			<NodeID>89</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>Yeah, as it turns out, we’re not Kris’s first victim. Another victim spoke up and helped me convince the principal. I’m kind of a school hero now.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1030,6 +1077,7 @@
 			<NodeID>90</NodeID>
 			<Name>You</Name>
 			<Text>Hey para-[main], how did confronting Kris go?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1041,6 +1089,7 @@
 			<NodeID>91</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>It went perfectly.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1052,6 +1101,7 @@
 			<NodeID>92</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>Yeah, as it turns out, we’re not Kris’s first victim. Another victim spoke up when I was confronting Kris, and the crowd actually turned on her.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1063,6 +1113,7 @@
 			<NodeID>93</NodeID>
 			<Name>You</Name>
 			<Text>That's great...</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1074,6 +1125,7 @@
 			<NodeID>94</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>How about you?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1085,6 +1137,7 @@
 			<NodeID>95</NodeID>
 			<Name>You</Name>
 			<Text>...</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1096,6 +1149,7 @@
 			<NodeID>96</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>That doesn’t sound good. At least you can use some of the information I found. Why don’t you go and get Jim Beaux to help you?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1107,6 +1161,7 @@
 			<NodeID>97</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>He was the other victim that spoke up. I’m sure he’d love to help you out.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1118,6 +1173,7 @@
 			<NodeID>98</NodeID>
 			<Name>You</Name>
 			<Text>That sounds like it could work. Who is Jim Beaux and where can I find them?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1129,6 +1185,7 @@
 			<NodeID>99</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>They’re in our English class, remember? He’s the kid who wears that weird Marble shirt everyday and barely participates.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1140,6 +1197,7 @@
 			<NodeID>100</NodeID>
 			<Name>You</Name>
 			<Text>That’s him? I suppose that makes sense.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1151,6 +1209,7 @@
 			<NodeID>101</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>Why don’t you try and find him right now? I’m pretty sure he’s in the math club.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1162,6 +1221,7 @@
 			<NodeID>102</NodeID>
 			<Name>Sawyer</Name>
 			<Text>That sounds like a plan. Why don’t we head to the math club right now, honey?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Sure.</Text>
@@ -1176,7 +1236,8 @@
 		<DialogueNode>
 			<NodeID>103</NodeID>
 			<Name>none</Name>
-			<Text>I head towards the math wing in search of the math club.</Text>
+			<Text>I head towards the math rooms in search of the math club.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1189,6 +1250,7 @@
 			<NodeID>104</NodeID>
 			<Name>You</Name>
 			<Text>Hey Sawyer, will this really work out? If I couldn’t do it before…</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1200,6 +1262,7 @@
 			<NodeID>105</NodeID>
 			<Name>Sawyer</Name>
 			<Text>If your paraself could do it, I don’t see why not.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1210,7 +1273,8 @@
 		<DialogueNode>
 			<NodeID>106</NodeID>
 			<Name>none</Name>
-			<Text>I easily find Jim solving math problems in the corner of the room.</Text>
+			<Text>I easily spot Jim solving math problems in the corner of the room.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1222,6 +1286,7 @@
 			<NodeID>107</NodeID>
 			<Name>You</Name>
 			<Text>Hey Jim, do you think you could help me out?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1236,6 +1301,8 @@
 			<NodeID>108</NodeID>
 			<Name>Jim</Name>
 			<Text>Were you that kid who accused Kris of taking your homework out before class today?</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>XXJimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1247,6 +1314,8 @@
 			<NodeID>109</NodeID>
 			<Name>You</Name>
 			<Text>Yeah, that was me.</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>JimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1258,6 +1327,8 @@
 			<NodeID>110</NodeID>
 			<Name>You</Name>
 			<Text>Could you help me convince the principal that Kris took it?</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>JimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1271,6 +1342,8 @@
 			<NodeID>111</NodeID>
 			<Name>Jim</Name>
 			<Text>Are you that kid who didn’t have their homework in English class?</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>XXJimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1282,6 +1355,8 @@
 			<NodeID>112</NodeID>
 			<Name>You</Name>
 			<Text>Yeah, Kris took it.</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>JimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1293,6 +1368,8 @@
 			<NodeID>113</NodeID>
 			<Name>You</Name>
 			<Text>I was actually wondering if you could help me convince the principal that Kris took it.</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>JimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1305,6 +1382,8 @@
 			<NodeID>114</NodeID>
 			<Name>Jim</Name>
 			<Text>Why me?</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>XXJimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1316,6 +1395,8 @@
 			<NodeID>115</NodeID>
 			<Name>You</Name>
 			<Text>My paraself told me that I’m not the only one Kris has targeted.</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>JimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1327,6 +1408,8 @@
 			<NodeID>116</NodeID>
 			<Name>Jim</Name>
 			<Text>Well, your paraself isn’t wrong. Kris has taken my work multiple times.</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>XXJimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1338,6 +1421,8 @@
 			<NodeID>117</NodeID>
 			<Name>Jim</Name>
 			<Text>Believe me, I’ve already tried reporting it to the school. What makes you think that this time will be different?</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>XXJimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>"If the two of us go..."</Text>
@@ -1353,6 +1438,8 @@
 			<NodeID>118</NodeID>
 			<Name>Jim</Name>
 			<Text>It’s two nobodies against the school president.</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>XXJimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1364,6 +1451,8 @@
 			<NodeID>119</NodeID>
 			<Name>Jim</Name>
 			<Text>I’m done trying. My family is moving away after this year anyways.</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>XXJimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1375,6 +1464,8 @@
 			<NodeID>120</NodeID>
 			<Name>Jim</Name>
 			<Text>Is that all?</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>XXJimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1386,6 +1477,8 @@
 			<NodeID>121</NodeID>
 			<Name>Sawyer</Name>
 			<Text>It worked for [main]’s paraself.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
+			<Sprite2>JimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1397,6 +1490,8 @@
 			<NodeID>122</NodeID>
 			<Name>Jim</Name>
 			<Text>Working for a paraself doesn’t mean ANYTHING.</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>XXJimLoo</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1408,6 +1503,8 @@
 			<NodeID>123</NodeID>
 			<Name>none</Name>
 			<Text>Jim seems fired up about this topic.</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>JimLoo</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1419,6 +1516,8 @@
 			<NodeID>124</NodeID>
 			<Name>Jim</Name>
 			<Text>I don’t want to hear about what worked and what didn’t for your paraself. Just leave me alone.</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>XXJimLoo</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1431,6 +1530,8 @@
 			<NodeID>125</NodeID>
 			<Name>Jim</Name>
 			<Text>Your paraself, huh?</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>XXJimAwa</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1442,6 +1543,8 @@
 			<NodeID>126</NodeID>
 			<Name>Jim</Name>
 			<Text>Working for your paraself doesn’t mean anything. You know that, right?</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>XXJimLoo</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1453,6 +1556,8 @@
 			<NodeID>127</NodeID>
 			<Name>Sawyer</Name>
 			<Text>What do you mean by that? It’s a very similar situation.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
+			<Sprite2>JimLoo</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1464,6 +1569,8 @@
 			<NodeID>128</NodeID>
 			<Name>Jim</Name>
 			<Text>Take my advice on this: never compare yourself to parallel worlds. You can find any fate if you look hard enough. Now are we done here?</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>XXJimLoo</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1476,6 +1583,8 @@
 			<NodeID>129</NodeID>
 			<Name>You</Name>
 			<Text>It was worth a shot.</Text>
+			<Sprite1>SawNeu</Sprite1>
+			<Sprite2>JimLoo</Sprite2>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1487,6 +1596,7 @@
 			<NodeID>130</NodeID>
 			<Name>none</Name>
 			<Text>Sawyer and I head out of the math wing. I bring out my prism and message my paraself on the way.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1499,6 +1609,7 @@
 			<NodeID>131</NodeID>
 			<Name>You</Name>
 			<Text>Jim won’t help me.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1510,6 +1621,7 @@
 			<NodeID>132</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>He’s not exactly an easy person to work with, I’ll admit.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1521,6 +1633,7 @@
 			<NodeID>133</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>So no luck with the principal's office?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1532,6 +1645,7 @@
 			<NodeID>134</NodeID>
 			<Name>You</Name>
 			<Text>I didn’t even bother going.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1543,6 +1657,7 @@
 			<NodeID>135</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>Well, that’s tough. I’ll let you know if I find anything else that could help you out.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1554,6 +1669,7 @@
 			<NodeID>136</NodeID>
 			<Name>You</Name>
 			<Text>Thanks, I guess.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1565,6 +1681,7 @@
 			<NodeID>137</NodeID>
 			<Name>Paraself 1</Name>
 			<Text>I wish I could do more for you.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1576,6 +1693,7 @@
 			<NodeID>138</NodeID>
 			<Name>You</Name>
 			<Text>Don’t worry about it. I’ll figure it out.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1587,6 +1705,7 @@
 			<NodeID>139</NodeID>
 			<Name>none</Name>
 			<Text>I put my prism away.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1598,6 +1717,7 @@
 			<NodeID>140</NodeID>
 			<Name>Sawyer</Name>
 			<Text>That trip went poorly.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1609,6 +1729,7 @@
 			<NodeID>141</NodeID>
 			<Name>You</Name>
 			<Text>It went about as well as the rest of my day.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1620,6 +1741,7 @@
 			<NodeID>142</NodeID>
 			<Name>You</Name>
 			<Text>It’s even worse knowing that I could have been on my paraself’s side. Am I just unlucky?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1631,6 +1753,7 @@
 			<NodeID>143</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Paraselves are... Do you think we matter?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>"Of course"</Text>
@@ -1650,6 +1773,7 @@
 			<NodeID>144</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Even though there’s probably over a billion versions of me?</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1662,6 +1786,7 @@
 			<NodeID>145</NodeID>
 			<Name>Sawyer</Name>
 			<Text>I’ve been thinking the same thing recently.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1673,6 +1798,7 @@
 			<NodeID>146</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Not a very good one.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1684,6 +1810,7 @@
 			<NodeID>147</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Never mind.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1695,6 +1822,7 @@
 			<NodeID>148</NodeID>
 			<Name>none</Name>
 			<Text>I get a text from my mom saying she’s waiting for me in the car.</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1706,6 +1834,7 @@
 			<NodeID>149</NodeID>
 			<Name>You</Name>
 			<Text>Ok, Sawyer, I’m going home. You need a ride?</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1717,6 +1846,7 @@
 			<NodeID>150</NodeID>
 			<Name>Sawyer</Name>
 			<Text>I’m good for today. Thanks for offering though.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1728,6 +1858,7 @@
 			<NodeID>151</NodeID>
 			<Name>You</Name>
 			<Text>Ok then, bye!</Text>
+			<Sprite1>SawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1750,6 +1881,7 @@
 			<NodeID>153</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Later, nerd.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1811,6 +1943,7 @@
 			<NodeID>158</NodeID>
 			<Name>Mom</Name>
 			<Text>So what happened at school today?</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1822,6 +1955,7 @@
 			<NodeID>159</NodeID>
 			<Name>none</Name>
 			<Text>I start to tell her what happened today. She interrupts to scold me for using prisms.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1833,6 +1967,7 @@
 			<NodeID>160</NodeID>
 			<Name>Mom</Name>
 			<Text>Didn’t I tell you not to get involved with the prism business? Those things drive people insane.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1844,6 +1979,7 @@
 			<NodeID>161</NodeID>
 			<Name>You</Name>
 			<Text>Says the one who works at a prism company.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1855,6 +1991,7 @@
 			<NodeID>162</NodeID>
 			<Name>Mom</Name>
 			<Text>Hey, I’m doing my part to pay the bills. Oh well, just don’t get too wrapped up in your paraself’s life.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1866,6 +2003,7 @@
 			<NodeID>163</NodeID>
 			<Name>none</Name>
 			<Text>I finish telling her my story without any further interruptions.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1877,6 +2015,7 @@
 			<NodeID>164</NodeID>
 			<Name>Mom</Name>
 			<Text>That’s frustrating. I’ll have a talk with the principal tomorrow.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1888,6 +2027,7 @@
 			<NodeID>165</NodeID>
 			<Name>You</Name>
 			<Text>Wait, I have an idea. If you let me create another paraself, we can scout the conversation in one world so that at least one timeline gets the result we want.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1899,6 +2039,7 @@
 			<NodeID>166</NodeID>
 			<Name>Mom</Name>
 			<Text>As long as you promise to not use that prism after tomorrow.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1910,6 +2051,7 @@
 			<NodeID>167</NodeID>
 			<Name>You</Name>
 			<Text>Thanks mom.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1921,6 +2063,7 @@
 			<NodeID>168</NodeID>
 			<Name>Mom</Name>
 			<Text>I have a bunch of prisms from work. Here, let me get one for you.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1943,6 +2086,7 @@
 			<NodeID>170</NodeID>
 			<Name>Mom</Name>
 			<Text>I hope that this works.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1954,6 +2098,7 @@
 			<NodeID>171</NodeID>
 			<Name>You</Name>
 			<Text>We should wait until a little closer to the principal before we activate it.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1965,6 +2110,7 @@
 			<NodeID>172</NodeID>
 			<Name>Mom</Name>
 			<Text>I would, but I have to base my schedule around this. I don’t think it’ll change much if we just do it now.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1976,6 +2122,7 @@
 			<NodeID>173</NodeID>
 			<Name>You</Name>
 			<Text>Ok then. Blue light side gets to make the final decision.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1986,7 +2133,8 @@
 		<DialogueNode>
 			<NodeID>174</NodeID>
 			<Name>none</Name>
-			<Text>I activate the prism. Again, a blue light flashes out from the prism.</Text>
+			<Text>I activate the prism. Again, a blue light flashes out.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1998,6 +2146,7 @@
 			<NodeID>175</NodeID>
 			<Name>You</Name>
 			<Text>Okay. You know the plan, right?</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2009,6 +2158,7 @@
 			<NodeID>176</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>It’s your call, since I’m red.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<!--Split 2-->
 				<DialogueOption>
@@ -2031,6 +2181,7 @@
 			<NodeID>177</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Sounds like a plan. I guess we’ll check in tomorrow.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2042,6 +2193,7 @@
 			<NodeID>178</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Thanks for doing the tough job, by the way.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2053,6 +2205,7 @@
 			<NodeID>179</NodeID>
 			<Name>You</Name>
 			<Text>No problem. I’ll go tomorrow after school.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2064,6 +2217,7 @@
 			<NodeID>180</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>I suppose I’ll go right after you then.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2076,6 +2230,7 @@
 			<NodeID>181</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Fair is fair.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2087,6 +2242,7 @@
 			<NodeID>182</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>I’ll go tomorrow morning then.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2098,6 +2254,7 @@
 			<NodeID>183</NodeID>
 			<Name>You</Name>
 			<Text>Perfect, I'll go after school.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2110,6 +2267,7 @@
 			<NodeID>184</NodeID>
 			<Name>You</Name>
 			<Text>I’ll go first. Can you go after school if I go in the morning?</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2121,6 +2279,7 @@
 			<NodeID>185</NodeID>
 			<Name>none</Name>
 			<Text>If I tell my paraself that I went and succeeded, they should go without hesitation.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2132,6 +2291,7 @@
 			<NodeID>186</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>I don’t have an issue with that.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2143,6 +2303,7 @@
 			<NodeID>187</NodeID>
 			<Name>none</Name>
 			<Text>After my paraself goes, I can see what happened in their world and plan around it.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2154,6 +2315,7 @@
 			<NodeID>188</NodeID>
 			<Name>You</Name>
 			<Text>Perfect, I’ll go tomorrow before school then.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2167,6 +2329,7 @@
 			<NodeID>189</NodeID>
 			<Name>You</Name>
 			<Text>In any case, we should get ready for tomorrow. Talk to you later.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2178,6 +2341,7 @@
 			<NodeID>190</NodeID>
 			<Name>Paraself 2</Name>
 			<Text>Ok, sounds good. Talk to you later.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2189,6 +2353,7 @@
 			<NodeID>191</NodeID>
 			<Name>Mom</Name>
 			<Text>What time should I be there?</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2200,6 +2365,7 @@
 			<NodeID>192</NodeID>
 			<Name>You</Name>
 			<Text>After school. Just be there at the normal pick up time.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2211,6 +2377,7 @@
 			<NodeID>193</NodeID>
 			<Name>Mom</Name>
 			<Text>Okay. Love you sweetie.</Text>
+			<Sprite1>XXMomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2222,6 +2389,7 @@
 			<NodeID>194</NodeID>
 			<Name>You</Name>
 			<Text>Love you too mom.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2246,6 +2414,7 @@
 			<NodeID>196</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Middle aged enough to not use prisms regularly.</Text>
+			<Sprite1>XXSawNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2281,6 +2450,7 @@
 			<NodeID>199</NodeID>
 			<Name>You</Name>
 			<Text>That sounds good. Thanks, mom.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -2292,6 +2462,7 @@
 			<NodeID>200</NodeID>
 			<Name>none</Name>
 			<Text>I don't want to think about what would happen if the school still doesn't believe me.</Text>
+			<Sprite1>MomNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
