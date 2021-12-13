@@ -1019,6 +1019,51 @@
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
+		<DialogueNode>
+			<NodeID>93</NodeID>
+			<Name>Sawyer</Name>
+			<Text>That’s... that’s the bracelet I gave you the day we met...</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>94</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>94</NodeID>
+			<Name>none</Name>
+			<Text>Sawyer begins sobbing again, this time in relief. I pull them in closer.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>95</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>95</NodeID>
+			<Name>You</Name>
+			<Text>It’s okay. We’ve got each other.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>96</DestinationNodeID>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
+		<DialogueNode>
+			<NodeID>96</NodeID>
+			<Name>none</Name>
+			<Text>We walk home, hand in hand.</Text>
+			<Options>
+				<DialogueOption>
+					<Text>Continue</Text>
+					<DestinationNodeID>-1</DestinationNodeID>
+					<Function>StartDia6</Function>
+				</DialogueOption>
+			</Options>
+		</DialogueNode>
 		
 		
 		<!--
