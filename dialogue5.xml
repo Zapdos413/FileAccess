@@ -787,7 +787,7 @@
 			<NodeID>65</NodeID>
 			<Name>none</Name>
 			<Text>I hear Sawyer sob.</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -799,7 +799,7 @@
 			<NodeID>66</NodeID>
 			<Name>You</Name>
 			<Text>Sawyer? What’s going on?</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -811,7 +811,7 @@
 			<NodeID>67</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Y-you wouldn’t understand. I don’t want to drag you into this...</Text>
-			<Sprite1>XXSawNeu</Sprite1>
+			<Sprite1>XXSawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -823,7 +823,7 @@
 			<NodeID>68</NodeID>
 			<Name>You</Name>
 			<Text>Sawyer, you’ve always helped me out with everything. We’re here for each other, always.</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -835,7 +835,7 @@
 			<NodeID>69</NodeID>
 			<Name>Sawyer</Name>
 			<Text>M-my parents...</Text>
-			<Sprite1>XXSawNeu</Sprite1>
+			<Sprite1>XXSawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -847,7 +847,7 @@
 			<NodeID>70</NodeID>
 			<Name>You</Name>
 			<Text>What about them? They’re always really nice when I visit...</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -859,7 +859,7 @@
 			<NodeID>71</NodeID>
 			<Name>Sawyer</Name>
 			<Text>I know, but... it’s just, they always compare me to my paraselves...they say I’m worthless...</Text>
-			<Sprite1>XXSawNeu</Sprite1>
+			<Sprite1>XXSawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -871,7 +871,7 @@
 			<NodeID>72</NodeID>
 			<Name>none</Name>
 			<Text>Sawyer continues sobbing.</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -883,7 +883,7 @@
 			<NodeID>73</NodeID>
 			<Name>You</Name>
 			<Text>It’s okay... it’s not true!</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -895,7 +895,7 @@
 			<NodeID>74</NodeID>
 			<Name>Sawyer</Name>
 			<Text>But it is! I haven’t ever done anything memorable... and whatever I do pales in comparison to all my paraselves!</Text>
-			<Sprite1>XXSawNeu</Sprite1>
+			<Sprite1>XXSawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -907,7 +907,7 @@
 			<NodeID>75</NodeID>
 			<Name>none</Name>
 			<Text>I don’t know what to say.</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -919,7 +919,7 @@
 			<NodeID>76</NodeID>
 			<Name>none</Name>
 			<Text>Sawyer has always been the closest person to me... but I never knew what was happening in their private life.</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -931,7 +931,7 @@
 			<NodeID>77</NodeID>
 			<Name>You</Name>
 			<Text>Sawyer, it’s okay. Think about everything we’ve done together. Nobody can replicate what we’ve been through.</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -943,7 +943,7 @@
 			<NodeID>78</NodeID>
 			<Name>Sawyer</Name>
 			<Text>You don’t understand... in every universe, I just drag you down.</Text>
-			<Sprite1>XXSawNeu</Sprite1>
+			<Sprite1>XXSawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -955,7 +955,7 @@
 			<NodeID>79</NodeID>
 			<Name>Sawyer</Name>
 			<Text>[main], you’re so smart... you have such a bright future. I’m just dead weight to you...</Text>
-			<Sprite1>XXSawNeu</Sprite1>
+			<Sprite1>XXSawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -967,7 +967,7 @@
 			<NodeID>80</NodeID>
 			<Name>You</Name>
 			<Text>No, Sawyer, you mean everything to me!</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -979,7 +979,7 @@
 			<NodeID>81</NodeID>
 			<Name>Sawyer</Name>
 			<Text>I’ve seen it too many times! When we part ways, you excel.</Text>
-			<Sprite1>XXSawNeu</Sprite1>
+			<Sprite1>XXSawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -991,7 +991,7 @@
 			<NodeID>82</NodeID>
 			<Name>Sawyer</Name>
 			<Text>And I couldn’t even pick up your call when you needed it most...</Text>
-			<Sprite1>XXSawNeu</Sprite1>
+			<Sprite1>XXSawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1055,7 +1055,7 @@
 			<NodeID>87</NodeID>
 			<Name>none</Name>
 			<Text>Tears streak down Sawyer’s face.</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1067,7 +1067,7 @@
 			<NodeID>88</NodeID>
 			<Name>Sawyer</Name>
 			<Text>Don’t worry, [main]. I’m sure there’s a world where we live happily ever after. I just haven’t found it yet.</Text>
-			<Sprite1>XXSawNeu</Sprite1>
+			<Sprite1>XXSawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>"Why can't it be this world?"</Text>
@@ -1087,7 +1087,7 @@
 			<NodeID>89</NodeID>
 			<Name>Sawyer</Name>
 			<Text>It’ll be so much easier for you now, [main]...</Text>
-			<Sprite1>XXSawNeu</Sprite1>
+			<Sprite1>XXSawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1099,7 +1099,7 @@
 			<NodeID>90</NodeID>
 			<Name>none</Name>
 			<Text>I reach out to physically restrain Sawyer, only to hear a gasp.</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1111,7 +1111,7 @@
 			<NodeID>91</NodeID>
 			<Name>Sawyer</Name>
 			<Text>[main]...</Text>
-			<Sprite1>XXSawNeu</Sprite1>
+			<Sprite1>XXSawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1123,7 +1123,7 @@
 			<NodeID>92</NodeID>
 			<Name>none</Name>
 			<Text>I pull Sawyer closer.</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1147,7 +1147,7 @@
 			<NodeID>94</NodeID>
 			<Name>none</Name>
 			<Text>Sawyer begins sobbing again, this time in relief. I pull them in closer.</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1159,7 +1159,7 @@
 			<NodeID>95</NodeID>
 			<Name>You</Name>
 			<Text>It’s okay. We’ve got each other.</Text>
-			<Sprite1>SawNeu</Sprite1>
+			<Sprite1>SawCry</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
