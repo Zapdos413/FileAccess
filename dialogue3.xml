@@ -734,6 +734,7 @@
 			<Name>Principal</Name>
 			<Text>Good afternoon, ma’am. You’re [main]’s mother, I presume?</Text>
 			<Sprite1>MomNeu</Sprite1>
+			<Background>Principals</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1040,6 +1041,7 @@
 			<Name>none</Name>
 			<Text>My mom storms out of the office and I follow her.</Text>
 			<Sprite1>MomNeu</Sprite1>
+			<Background>SchoolFront</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1055,6 +1057,7 @@
 			<Name>none</Name>
 			<Text>My mom storms out of the office and I follow her.</Text>
 			<Sprite1>MomNeu</Sprite1>
+			<Background>SchoolFront</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1069,6 +1072,7 @@
 			<Name>none</Name>
 			<Text>My mom storms out of the office and I follow her.</Text>
 			<Sprite1>MomNeu</Sprite1>
+			<Background>SchoolFront</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -1330,6 +1334,7 @@
 			<Name>none</Name>
 			<Text>My mom only starts venting once we get in the car.</Text>
 			<Sprite1>MomNeu</Sprite1>
+			<Background>Car</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
