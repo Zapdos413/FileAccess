@@ -64,7 +64,7 @@
 		<DialogueNode>
 			<NodeID>5</NodeID>
 			<Name>Doctor</Name>
-			<Text>Yeah. Your car rolled off the highway. It’s almost a miracle that you’re only suffering from stress and no physical injuries.</Text>
+			<Text>Yeah. Your car crashed on the highway. It’s almost a miracle that you’re not majorly injured.</Text>
 			<Sprite1>XXDocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
