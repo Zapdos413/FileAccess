@@ -5,6 +5,7 @@
 			<NodeID>0</NodeID>
 			<Name>none</Name>
 			<Text>I open my eyes. Everything seems unfamiliar.</Text>
+			<Background>Hospital</Background>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
