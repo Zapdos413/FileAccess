@@ -63,219 +63,89 @@
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>6</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>6</NodeID>
+			<Name>none</Name>
+			<Text>I can’t take it anymore.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>7</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>7</NodeID>
+			<Name>none</Name>
+			<Text>Whatever I do... it always ends like this...</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>8</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>8</NodeID>
+			<Name>none</Name>
+			<Text>I feel the urge, even at this moment, to activate a prism.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>9</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>9</NodeID>
+			<Name>none</Name>
+			<Text>In hindsight, I can see— everything started once I activated that one prism.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>10</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>10</NodeID>
+			<Name>none</Name>
+			<Text>There’s only one way to end this.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>11</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>11</NodeID>
+			<Name>none</Name>
+			<Text>I text Sawyer back.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>12</DestinationNodeID>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
 		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
+			<NodeID>12</NodeID>
+			<Name>none</Name>
+			<Text>"I’ll be there soon."</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
+					<DestinationNodeID>-1</DestinationNodeID>
+					<Function>RollCredits</Function>
 				</DialogueOption>
 			</Options>
 		</DialogueNode>
-		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
-			<Options>
-				<DialogueOption>
-					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
-				</DialogueOption>
-			</Options>
-		</DialogueNode>
-		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
-			<Options>
-				<DialogueOption>
-					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
-				</DialogueOption>
-			</Options>
-		</DialogueNode>
-		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
-			<Options>
-				<DialogueOption>
-					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
-				</DialogueOption>
-			</Options>
-		</DialogueNode>
-		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
-			<Options>
-				<DialogueOption>
-					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
-				</DialogueOption>
-			</Options>
-		</DialogueNode>
-		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
-			<Options>
-				<DialogueOption>
-					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
-				</DialogueOption>
-			</Options>
-		</DialogueNode>
-		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
-			<Options>
-				<DialogueOption>
-					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
-				</DialogueOption>
-			</Options>
-		</DialogueNode>
-		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
-			<Options>
-				<DialogueOption>
-					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
-				</DialogueOption>
-			</Options>
-		</DialogueNode>
-		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
-			<Options>
-				<DialogueOption>
-					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
-				</DialogueOption>
-			</Options>
-		</DialogueNode>
-		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
-			<Options>
-				<DialogueOption>
-					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
-				</DialogueOption>
-			</Options>
-		</DialogueNode>
-		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
-			<Options>
-				<DialogueOption>
-					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
-				</DialogueOption>
-			</Options>
-		</DialogueNode>
-		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
-			<Options>
-				<DialogueOption>
-					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
-				</DialogueOption>
-			</Options>
-		</DialogueNode>
-		<DialogueNode>
-			<NodeID></NodeID>
-			<Name></Name>
-			<Text></Text>
-			<Options>
-				<DialogueOption>
-					<Text>Continue</Text>
-					<DestinationNodeID></DestinationNodeID>
-				</DialogueOption>
-			</Options>
-		</DialogueNode>
+		
 		
 		<!--
 		<DialogueNode>
