@@ -595,7 +595,7 @@
 		<DialogueNode>
 			<NodeID>48</NodeID>
 			<Name>none</Name>
-			<Text>Why couldn’t the school just have believed me the first time? While I wait for my mom, I keep my prism on and chat with my paraself. She arrives, and I keep it on per my paraself’s request.</Text>
+			<Text>While I wait for my mom, I keep my prism on and chat with my paraself. She arrives, and I keep it on per my paraself’s request.</Text>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
