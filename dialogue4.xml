@@ -16,6 +16,7 @@
 			<NodeID>1</NodeID>
 			<Name>Doctor</Name>
 			<Text>Oh, you’re up. You’re one lucky kid, you know.</Text>
+			<Sprite1>XXDocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -27,6 +28,7 @@
 			<NodeID>2</NodeID>
 			<Name>none</Name>
 			<Text>I try to say something, but it comes out as an unintelligible mumble.</Text>
+			<Sprite1>DocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -38,6 +40,7 @@
 			<NodeID>3</NodeID>
 			<Name>Doctor</Name>
 			<Text>You got brought here about 16 hours ago.</Text>
+			<Sprite1>XXDocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -49,6 +52,7 @@
 			<NodeID>4</NodeID>
 			<Name>You</Name>
 			<Text>Sixteen?</Text>
+			<Sprite1>DocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -60,6 +64,7 @@
 			<NodeID>5</NodeID>
 			<Name>Doctor</Name>
 			<Text>Yeah. Your car rolled off the highway. It’s almost a miracle that you’re only suffering from stress and no physical injuries.</Text>
+			<Sprite1>XXDocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -71,6 +76,7 @@
 			<NodeID>6</NodeID>
 			<Name>You</Name>
 			<Text>What about my mom…?</Text>
+			<Sprite1>DocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -82,6 +88,7 @@
 			<NodeID>7</NodeID>
 			<Name>Doctor</Name>
 			<Text>She’s… in critical condition.</Text>
+			<Sprite1>XXDocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -93,6 +100,7 @@
 			<NodeID>8</NodeID>
 			<Name>none</Name>
 			<Text>I can’t believe what I’m hearing. How could I have let this happen?</Text>
+			<Sprite1>DocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -104,6 +112,7 @@
 			<NodeID>9</NodeID>
 			<Name>You</Name>
 			<Text>Can I see her?</Text>
+			<Sprite1>DocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -115,6 +124,7 @@
 			<NodeID>10</NodeID>
 			<Name>Doctor</Name>
 			<Text>Yes, but please wait a little while longer. I just want to make sure you’re okay first.</Text>
+			<Sprite1>XXDocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -126,6 +136,7 @@
 			<NodeID>11</NodeID>
 			<Name>none</Name>
 			<Text>My body feels mostly fine, but my mind can’t get over the incident.</Text>
+			<Sprite1>DocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -137,6 +148,7 @@
 			<NodeID>12</NodeID>
 			<Name>none</Name>
 			<Text>I look around for my bag and see it on a table nearby.</Text>
+			<Sprite1>DocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -148,6 +160,7 @@
 			<NodeID>13</NodeID>
 			<Name>You</Name>
 			<Text>Excuse me, Mr. Doctor, can I have my bag?</Text>
+			<Sprite1>DocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -159,6 +172,7 @@
 			<NodeID>14</NodeID>
 			<Name>Doctor</Name>
 			<Text>Sure.</Text>
+			<Sprite1>XXDocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -170,6 +184,7 @@
 			<NodeID>15</NodeID>
 			<Name>none</Name>
 			<Text>He smiles with pity and hands me my things.</Text>
+			<Sprite1>DocNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -434,6 +449,7 @@
 			<NodeID>38</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Shhhhhhh, I’m trying not to make it obvious!!!</Text>
+			<Sprite1>XXLyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -445,6 +461,7 @@
 			<NodeID>39</NodeID>
 			<Name>none</Name>
 			<Text>While Lyanna’s antics are quite childish, I appreciate her goodwill. I get into her car.</Text>
+			<Sprite1>LyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -456,6 +473,7 @@
 			<NodeID>40</NodeID>
 			<Name>none</Name>
 			<Text>On the way back, Lyanna tries to make conversation a couple of times but can tell that I need to be alone. She drops me off after a silent ride.</Text>
+			<Sprite1>LyaNeu</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
@@ -467,6 +485,7 @@
 			<NodeID>41</NodeID>
 			<Name>Lyanna</Name>
 			<Text>Bye [main]! Call me if you need anything. It’ll be my excuse to get out of class.</Text>
+			<Sprite1>XXLyaHap</Sprite1>
 			<Options>
 				<DialogueOption>
 					<Text>Continue</Text>
